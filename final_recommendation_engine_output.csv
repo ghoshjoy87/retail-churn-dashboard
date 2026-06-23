@@ -1,0 +1,1127 @@
+Customer_Index,Churn_Probability,Churn_Risk,Customer_Behaviour_Segment,Priority_Score,Priority_Label,Final_Manager_Action
+0,0.005,Low Churn Risk,Inactive Customers,10.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1,0.055,Low Churn Risk,New and Developing Customers,5.5,Monitor,Continue onboarding and monitor engagement.
+2,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+3,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+4,0.155,Low Churn Risk,New and Developing Customers,15.5,Monitor,Continue onboarding and monitor engagement.
+5,0.035,Low Churn Risk,Frequent Customers Losing Interest,18.5,Monitor,Monitor engagement trend before offering discount.
+6,0.145,Low Churn Risk,New and Developing Customers,14.5,Monitor,Continue onboarding and monitor engagement.
+7,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+8,0.13,Low Churn Risk,New and Developing Customers,13.0,Monitor,Continue onboarding and monitor engagement.
+9,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+10,0.045,Low Churn Risk,Previously Valuable Customers,24.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+11,0.785,High Churn Risk,New and Developing Customers,78.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+12,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+13,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+14,0.08,Low Churn Risk,Previously Valuable Customers,28.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+15,0.075,Low Churn Risk,New and Developing Customers,7.5,Monitor,Continue onboarding and monitor engagement.
+16,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+17,0.135,Low Churn Risk,New and Developing Customers,13.5,Monitor,Continue onboarding and monitor engagement.
+18,0.0,Low Churn Risk,Inactive Customers,10.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+19,0.07,Low Churn Risk,Frequent Low-Value Customers,7.0,Monitor,Encourage higher basket value through product bundles.
+20,0.195,Low Churn Risk,Frequent Customers Losing Interest,34.5,Monitor,Monitor engagement trend before offering discount.
+21,0.04,Low Churn Risk,Previously Valuable Customers,24.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+22,0.685,Medium Churn Risk,New and Developing Customers,68.5,Follow Up Soon,Send welcome offer and nurture campaign.
+23,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+24,0.03,Low Churn Risk,High-Value Occasional Customers,8.0,Monitor,Maintain engagement with personalised product recommendations.
+25,0.13,Low Churn Risk,Inactive Customers,23.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+26,0.29,Low Churn Risk,High-Value Customers Losing Interest,54.0,Monitor,Monitor closely and maintain premium communication.
+27,0.07,Low Churn Risk,Frequent Customers Losing Interest,22.0,Monitor,Monitor engagement trend before offering discount.
+28,0.015,Low Churn Risk,Inactive Customers,11.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+29,0.125,Low Churn Risk,Previously Valuable Customers,32.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+30,0.02,Low Churn Risk,Inactive Customers,12.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+31,0.005,Low Churn Risk,New and Developing Customers,0.5,Monitor,Continue onboarding and monitor engagement.
+32,0.435,Medium Churn Risk,New and Developing Customers,43.5,Follow Up Soon,Send welcome offer and nurture campaign.
+33,0.41,Medium Churn Risk,High-Value Customers Losing Interest,66.0,Immediate Action,Send personalised high-value recovery offer.
+34,0.11,Low Churn Risk,New and Developing Customers,11.0,Monitor,Continue onboarding and monitor engagement.
+35,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+36,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+37,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+38,0.15,Low Churn Risk,High-Value Customers Losing Interest,40.0,Monitor,Monitor closely and maintain premium communication.
+39,0.11,Low Churn Risk,New and Developing Customers,11.0,Monitor,Continue onboarding and monitor engagement.
+40,0.005,Low Churn Risk,Previously Valuable Customers,20.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+41,0.735,High Churn Risk,Inactive Customers,83.5,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+42,0.05,Low Churn Risk,Previously Valuable Customers,25.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+43,0.04,Low Churn Risk,High-Value Occasional Customers,9.0,Monitor,Maintain engagement with personalised product recommendations.
+44,0.175,Low Churn Risk,Inactive Customers,27.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+45,0.205,Low Churn Risk,New and Developing Customers,20.5,Monitor,Continue onboarding and monitor engagement.
+46,0.085,Low Churn Risk,New and Developing Customers,8.5,Monitor,Continue onboarding and monitor engagement.
+47,0.01,Low Churn Risk,Frequent Low-Value Customers,1.0,Monitor,Encourage higher basket value through product bundles.
+48,0.01,Low Churn Risk,Frequent Customers Losing Interest,16.0,Monitor,Monitor engagement trend before offering discount.
+49,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+50,0.495,Medium Churn Risk,New and Developing Customers,49.5,Follow Up Soon,Send welcome offer and nurture campaign.
+51,0.21,Low Churn Risk,New and Developing Customers,21.0,Monitor,Continue onboarding and monitor engagement.
+52,0.145,Low Churn Risk,New and Developing Customers,14.5,Monitor,Continue onboarding and monitor engagement.
+53,0.8,High Churn Risk,Previously Valuable Customers,100.0,Immediate Action,Run priority win-back campaign with personalised discount and direct follow-up.
+54,0.24,Low Churn Risk,New and Developing Customers,24.0,Monitor,Continue onboarding and monitor engagement.
+55,0.56,Medium Churn Risk,New and Developing Customers,56.0,Follow Up Soon,Send welcome offer and nurture campaign.
+56,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+57,0.36,Low Churn Risk,New and Developing Customers,36.0,Monitor,Continue onboarding and monitor engagement.
+58,0.135,Low Churn Risk,New and Developing Customers,13.5,Monitor,Continue onboarding and monitor engagement.
+59,0.85,High Churn Risk,New and Developing Customers,85.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+60,0.025,Low Churn Risk,Inactive Customers,12.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+61,0.015,Low Churn Risk,Previously Valuable Customers,21.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+62,0.09,Low Churn Risk,High-Value Customers Losing Interest,34.0,Monitor,Monitor closely and maintain premium communication.
+63,0.225,Low Churn Risk,High-Value Customers Losing Interest,47.5,Monitor,Monitor closely and maintain premium communication.
+64,0.345,Low Churn Risk,High-Value Occasional Customers,39.5,Monitor,Maintain engagement with personalised product recommendations.
+65,0.31,Low Churn Risk,Previously Valuable Customers,51.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+66,0.09,Low Churn Risk,New and Developing Customers,9.0,Monitor,Continue onboarding and monitor engagement.
+67,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+68,0.0,Low Churn Risk,New and Developing Customers,0.0,Monitor,Continue onboarding and monitor engagement.
+69,0.225,Low Churn Risk,Previously Valuable Customers,42.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+70,0.03,Low Churn Risk,Inactive Customers,13.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+71,0.5,Medium Churn Risk,New and Developing Customers,50.0,Follow Up Soon,Send welcome offer and nurture campaign.
+72,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+73,0.055,Low Churn Risk,High-Value Occasional Customers,10.5,Monitor,Maintain engagement with personalised product recommendations.
+74,0.67,Medium Churn Risk,Inactive Customers,77.0,Immediate Action,Send reminder campaign with small incentive.
+75,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+76,0.03,Low Churn Risk,High-Value Customers Losing Interest,28.0,Monitor,Monitor closely and maintain premium communication.
+77,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+78,0.22,Low Churn Risk,Frequent Customers Losing Interest,37.0,Monitor,Monitor engagement trend before offering discount.
+79,0.76,High Churn Risk,High-Value Occasional Customers,81.0,Immediate Action,Send premium personalised retention offer.
+80,0.17,Low Churn Risk,High-Value Customers Losing Interest,42.0,Monitor,Monitor closely and maintain premium communication.
+81,0.745,High Churn Risk,New and Developing Customers,74.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+82,0.01,Low Churn Risk,Inactive Customers,11.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+83,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+84,0.175,Low Churn Risk,High-Value Occasional Customers,22.5,Monitor,Maintain engagement with personalised product recommendations.
+85,0.915,High Churn Risk,Previously Valuable Customers,111.5,Immediate Action,Run priority win-back campaign with personalised discount and direct follow-up.
+86,0.9,High Churn Risk,Previously Valuable Customers,110.0,Immediate Action,Run priority win-back campaign with personalised discount and direct follow-up.
+87,0.08,Low Churn Risk,High-Value Customers Losing Interest,33.0,Monitor,Monitor closely and maintain premium communication.
+88,0.925,High Churn Risk,High-Value Active Customers,92.5,Immediate Action,Investigate churn drivers immediately and provide premium loyalty support.
+89,0.08,Low Churn Risk,Inactive Customers,18.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+90,0.12,Low Churn Risk,High-Value Occasional Customers,17.0,Monitor,Maintain engagement with personalised product recommendations.
+91,0.19,Low Churn Risk,High-Value Occasional Customers,24.0,Monitor,Maintain engagement with personalised product recommendations.
+92,0.795,High Churn Risk,Inactive Customers,89.5,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+93,0.89,High Churn Risk,Previously Valuable Customers,109.0,Immediate Action,Run priority win-back campaign with personalised discount and direct follow-up.
+94,0.02,Low Churn Risk,Inactive Customers,12.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+95,0.14,Low Churn Risk,Frequent Customers Losing Interest,29.0,Monitor,Monitor engagement trend before offering discount.
+96,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+97,0.04,Low Churn Risk,High-Value Occasional Customers,9.0,Monitor,Maintain engagement with personalised product recommendations.
+98,0.695,Medium Churn Risk,Previously Valuable Customers,89.5,Immediate Action,Send re-engagement campaign with loyalty incentive.
+99,0.44,Medium Churn Risk,Inactive Customers,54.0,Immediate Action,Send reminder campaign with small incentive.
+100,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+101,0.555,Medium Churn Risk,Frequent Customers Losing Interest,70.5,Immediate Action,Send reminder campaign and personalised offer.
+102,0.185,Low Churn Risk,High-Value Active Customers,18.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+103,0.24,Low Churn Risk,High-Value Customers Losing Interest,49.0,Monitor,Monitor closely and maintain premium communication.
+104,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+105,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+106,0.275,Low Churn Risk,Previously Valuable Customers,47.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+107,0.075,Low Churn Risk,New and Developing Customers,7.5,Monitor,Continue onboarding and monitor engagement.
+108,0.015,Low Churn Risk,High-Value Customers Losing Interest,26.5,Monitor,Monitor closely and maintain premium communication.
+109,0.08,Low Churn Risk,Inactive Customers,18.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+110,0.27,Low Churn Risk,High-Value Customers Losing Interest,52.0,Monitor,Monitor closely and maintain premium communication.
+111,0.03,Low Churn Risk,Inactive Customers,13.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+112,0.61,Medium Churn Risk,Previously Valuable Customers,81.0,Immediate Action,Send re-engagement campaign with loyalty incentive.
+113,0.825,High Churn Risk,New and Developing Customers,82.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+114,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+115,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+116,0.11,Low Churn Risk,New and Developing Customers,11.0,Monitor,Continue onboarding and monitor engagement.
+117,0.0,Low Churn Risk,New and Developing Customers,0.0,Monitor,Continue onboarding and monitor engagement.
+118,0.505,Medium Churn Risk,Frequent Customers Losing Interest,65.5,Immediate Action,Send reminder campaign and personalised offer.
+119,0.615,Medium Churn Risk,High-Value Customers Losing Interest,86.5,Immediate Action,Send personalised high-value recovery offer.
+120,0.02,Low Churn Risk,High-Value Occasional Customers,7.0,Monitor,Maintain engagement with personalised product recommendations.
+121,0.185,Low Churn Risk,New and Developing Customers,18.5,Monitor,Continue onboarding and monitor engagement.
+122,0.03,Low Churn Risk,Frequent Customers Losing Interest,18.0,Monitor,Monitor engagement trend before offering discount.
+123,0.09,Low Churn Risk,New and Developing Customers,9.0,Monitor,Continue onboarding and monitor engagement.
+124,0.09,Low Churn Risk,High-Value Occasional Customers,14.0,Monitor,Maintain engagement with personalised product recommendations.
+125,0.0,Low Churn Risk,High-Value Occasional Customers,5.0,Monitor,Maintain engagement with personalised product recommendations.
+126,0.015,Low Churn Risk,High-Value Active Customers,1.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+127,0.0,Low Churn Risk,Inactive Customers,10.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+128,0.94,High Churn Risk,High-Value Occasional Customers,99.0,Immediate Action,Send premium personalised retention offer.
+129,0.02,Low Churn Risk,High-Value Occasional Customers,7.0,Monitor,Maintain engagement with personalised product recommendations.
+130,0.06,Low Churn Risk,New and Developing Customers,6.0,Monitor,Continue onboarding and monitor engagement.
+131,0.23,Low Churn Risk,Frequent Customers Losing Interest,38.0,Monitor,Monitor engagement trend before offering discount.
+132,0.02,Low Churn Risk,Previously Valuable Customers,22.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+133,0.565,Medium Churn Risk,New and Developing Customers,56.5,Follow Up Soon,Send welcome offer and nurture campaign.
+134,0.065,Low Churn Risk,Inactive Customers,16.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+135,0.73,High Churn Risk,New and Developing Customers,73.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+136,0.64,Medium Churn Risk,Frequent Customers Losing Interest,79.0,Immediate Action,Send reminder campaign and personalised offer.
+137,0.09,Low Churn Risk,Inactive Customers,19.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+138,0.005,Low Churn Risk,Previously Valuable Customers,20.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+139,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+140,0.4,Medium Churn Risk,High-Value Occasional Customers,45.0,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+141,0.065,Low Churn Risk,Frequent Customers Losing Interest,21.5,Monitor,Monitor engagement trend before offering discount.
+142,0.31,Low Churn Risk,Inactive Customers,41.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+143,0.085,Low Churn Risk,High-Value Customers Losing Interest,33.5,Monitor,Monitor closely and maintain premium communication.
+144,0.01,Low Churn Risk,Frequent Customers Losing Interest,16.0,Monitor,Monitor engagement trend before offering discount.
+145,0.01,Low Churn Risk,Previously Valuable Customers,21.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+146,0.43,Medium Churn Risk,High-Value Active Customers,43.0,Follow Up Soon,Send loyalty reward and monitor satisfaction.
+147,0.02,Low Churn Risk,Inactive Customers,12.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+148,0.6,Medium Churn Risk,High-Value Occasional Customers,65.0,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+149,0.055,Low Churn Risk,New and Developing Customers,5.5,Monitor,Continue onboarding and monitor engagement.
+150,0.625,Medium Churn Risk,High-Value Occasional Customers,67.5,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+151,0.12,Low Churn Risk,High-Value Active Customers,12.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+152,0.225,Low Churn Risk,Frequent Customers Losing Interest,37.5,Monitor,Monitor engagement trend before offering discount.
+153,0.035,Low Churn Risk,High-Value Customers Losing Interest,28.5,Monitor,Monitor closely and maintain premium communication.
+154,0.26,Low Churn Risk,High-Value Customers Losing Interest,51.0,Monitor,Monitor closely and maintain premium communication.
+155,0.205,Low Churn Risk,High-Value Occasional Customers,25.5,Monitor,Maintain engagement with personalised product recommendations.
+156,0.085,Low Churn Risk,Frequent Customers Losing Interest,23.5,Monitor,Monitor engagement trend before offering discount.
+157,0.175,Low Churn Risk,Inactive Customers,27.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+158,0.775,High Churn Risk,Inactive Customers,87.5,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+159,0.1,Low Churn Risk,Frequent Low-Value Customers,10.0,Monitor,Encourage higher basket value through product bundles.
+160,0.825,High Churn Risk,Frequent Customers Losing Interest,97.5,Immediate Action,Send urgent re-engagement campaign with loyalty reward.
+161,0.46,Medium Churn Risk,New and Developing Customers,46.0,Follow Up Soon,Send welcome offer and nurture campaign.
+162,0.13,Low Churn Risk,New and Developing Customers,13.0,Monitor,Continue onboarding and monitor engagement.
+163,0.19,Low Churn Risk,New and Developing Customers,19.0,Monitor,Continue onboarding and monitor engagement.
+164,0.26,Low Churn Risk,New and Developing Customers,26.0,Monitor,Continue onboarding and monitor engagement.
+165,0.235,Low Churn Risk,High-Value Occasional Customers,28.5,Monitor,Maintain engagement with personalised product recommendations.
+166,0.82,High Churn Risk,Frequent Customers Losing Interest,97.0,Immediate Action,Send urgent re-engagement campaign with loyalty reward.
+167,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+168,0.315,Low Churn Risk,Frequent Customers Losing Interest,46.5,Monitor,Monitor engagement trend before offering discount.
+169,0.88,High Churn Risk,New and Developing Customers,88.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+170,0.05,Low Churn Risk,High-Value Customers Losing Interest,30.0,Monitor,Monitor closely and maintain premium communication.
+171,0.37,Low Churn Risk,New and Developing Customers,37.0,Monitor,Continue onboarding and monitor engagement.
+172,0.425,Medium Churn Risk,Previously Valuable Customers,62.5,Immediate Action,Send re-engagement campaign with loyalty incentive.
+173,0.16,Low Churn Risk,New and Developing Customers,16.0,Monitor,Continue onboarding and monitor engagement.
+174,0.165,Low Churn Risk,New and Developing Customers,16.5,Monitor,Continue onboarding and monitor engagement.
+175,0.085,Low Churn Risk,High-Value Customers Losing Interest,33.5,Monitor,Monitor closely and maintain premium communication.
+176,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+177,0.25,Low Churn Risk,Inactive Customers,35.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+178,0.97,High Churn Risk,Previously Valuable Customers,117.0,Immediate Action,Run priority win-back campaign with personalised discount and direct follow-up.
+179,0.7,High Churn Risk,Previously Valuable Customers,90.0,Immediate Action,Run priority win-back campaign with personalised discount and direct follow-up.
+180,0.05,Low Churn Risk,Inactive Customers,15.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+181,0.84,High Churn Risk,Frequent Customers Losing Interest,99.0,Immediate Action,Send urgent re-engagement campaign with loyalty reward.
+182,0.055,Low Churn Risk,High-Value Occasional Customers,10.5,Monitor,Maintain engagement with personalised product recommendations.
+183,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+184,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+185,0.905,High Churn Risk,High-Value Occasional Customers,95.5,Immediate Action,Send premium personalised retention offer.
+186,0.015,Low Churn Risk,Frequent Customers Losing Interest,16.5,Monitor,Monitor engagement trend before offering discount.
+187,0.13,Low Churn Risk,New and Developing Customers,13.0,Monitor,Continue onboarding and monitor engagement.
+188,0.35,Low Churn Risk,High-Value Active Customers,35.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+189,0.165,Low Churn Risk,Previously Valuable Customers,36.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+190,0.13,Low Churn Risk,Inactive Customers,23.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+191,0.005,Low Churn Risk,High-Value Customers Losing Interest,25.5,Monitor,Monitor closely and maintain premium communication.
+192,0.04,Low Churn Risk,Frequent Customers Losing Interest,19.0,Monitor,Monitor engagement trend before offering discount.
+193,0.98,High Churn Risk,New and Developing Customers,98.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+194,0.035,Low Churn Risk,Frequent Customers Losing Interest,18.5,Monitor,Monitor engagement trend before offering discount.
+195,0.455,Medium Churn Risk,Inactive Customers,55.5,Immediate Action,Send reminder campaign with small incentive.
+196,0.055,Low Churn Risk,High-Value Customers Losing Interest,30.5,Monitor,Monitor closely and maintain premium communication.
+197,0.015,Low Churn Risk,Inactive Customers,11.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+198,0.085,Low Churn Risk,New and Developing Customers,8.5,Monitor,Continue onboarding and monitor engagement.
+199,0.15,Low Churn Risk,Inactive Customers,25.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+200,0.585,Medium Churn Risk,Previously Valuable Customers,78.5,Immediate Action,Send re-engagement campaign with loyalty incentive.
+201,0.115,Low Churn Risk,High-Value Active Customers,11.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+202,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+203,0.545,Medium Churn Risk,New and Developing Customers,54.5,Follow Up Soon,Send welcome offer and nurture campaign.
+204,0.0,Low Churn Risk,High-Value Occasional Customers,5.0,Monitor,Maintain engagement with personalised product recommendations.
+205,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+206,0.295,Low Churn Risk,High-Value Customers Losing Interest,54.5,Monitor,Monitor closely and maintain premium communication.
+207,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+208,0.7,High Churn Risk,High-Value Occasional Customers,75.0,Immediate Action,Send premium personalised retention offer.
+209,0.23,Low Churn Risk,Frequent Customers Losing Interest,38.0,Monitor,Monitor engagement trend before offering discount.
+210,0.11,Low Churn Risk,High-Value Occasional Customers,16.0,Monitor,Maintain engagement with personalised product recommendations.
+211,0.005,Low Churn Risk,Inactive Customers,10.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+212,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+213,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+214,0.685,Medium Churn Risk,Inactive Customers,78.5,Immediate Action,Send reminder campaign with small incentive.
+215,0.005,Low Churn Risk,High-Value Customers Losing Interest,25.5,Monitor,Monitor closely and maintain premium communication.
+216,0.96,High Churn Risk,High-Value Occasional Customers,101.0,Immediate Action,Send premium personalised retention offer.
+217,0.095,Low Churn Risk,Previously Valuable Customers,29.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+218,0.145,Low Churn Risk,High-Value Customers Losing Interest,39.5,Monitor,Monitor closely and maintain premium communication.
+219,0.19,Low Churn Risk,High-Value Customers Losing Interest,44.0,Monitor,Monitor closely and maintain premium communication.
+220,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+221,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+222,0.06,Low Churn Risk,New and Developing Customers,6.0,Monitor,Continue onboarding and monitor engagement.
+223,0.12,Low Churn Risk,High-Value Occasional Customers,17.0,Monitor,Maintain engagement with personalised product recommendations.
+224,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+225,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+226,0.205,Low Churn Risk,Inactive Customers,30.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+227,0.12,Low Churn Risk,High-Value Occasional Customers,17.0,Monitor,Maintain engagement with personalised product recommendations.
+228,0.36,Low Churn Risk,Frequent Customers Losing Interest,51.0,Monitor,Monitor engagement trend before offering discount.
+229,0.23,Low Churn Risk,New and Developing Customers,23.0,Monitor,Continue onboarding and monitor engagement.
+230,0.24,Low Churn Risk,Frequent Customers Losing Interest,39.0,Monitor,Monitor engagement trend before offering discount.
+231,0.07,Low Churn Risk,High-Value Occasional Customers,12.0,Monitor,Maintain engagement with personalised product recommendations.
+232,0.285,Low Churn Risk,New and Developing Customers,28.5,Monitor,Continue onboarding and monitor engagement.
+233,0.47,Medium Churn Risk,High-Value Occasional Customers,52.0,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+234,0.855,High Churn Risk,High-Value Customers Losing Interest,110.5,Immediate Action,Use premium retention offer and personal outreach immediately.
+235,0.075,Low Churn Risk,High-Value Occasional Customers,12.5,Monitor,Maintain engagement with personalised product recommendations.
+236,0.81,High Churn Risk,Inactive Customers,91.0,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+237,0.005,Low Churn Risk,New and Developing Customers,0.5,Monitor,Continue onboarding and monitor engagement.
+238,0.14,Low Churn Risk,New and Developing Customers,14.0,Monitor,Continue onboarding and monitor engagement.
+239,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+240,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+241,0.12,Low Churn Risk,Previously Valuable Customers,32.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+242,0.025,Low Churn Risk,High-Value Occasional Customers,7.5,Monitor,Maintain engagement with personalised product recommendations.
+243,0.1,Low Churn Risk,High-Value Occasional Customers,15.0,Monitor,Maintain engagement with personalised product recommendations.
+244,0.01,Low Churn Risk,New and Developing Customers,1.0,Monitor,Continue onboarding and monitor engagement.
+245,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+246,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+247,0.18,Low Churn Risk,High-Value Occasional Customers,23.0,Monitor,Maintain engagement with personalised product recommendations.
+248,0.03,Low Churn Risk,Inactive Customers,13.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+249,0.295,Low Churn Risk,Inactive Customers,39.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+250,0.355,Low Churn Risk,New and Developing Customers,35.5,Monitor,Continue onboarding and monitor engagement.
+251,0.03,Low Churn Risk,Inactive Customers,13.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+252,0.095,Low Churn Risk,New and Developing Customers,9.5,Monitor,Continue onboarding and monitor engagement.
+253,0.025,Low Churn Risk,Inactive Customers,12.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+254,0.155,Low Churn Risk,High-Value Occasional Customers,20.5,Monitor,Maintain engagement with personalised product recommendations.
+255,0.62,Medium Churn Risk,New and Developing Customers,62.0,Follow Up Soon,Send welcome offer and nurture campaign.
+256,0.78,High Churn Risk,New and Developing Customers,78.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+257,0.075,Low Churn Risk,Inactive Customers,17.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+258,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+259,0.015,Low Churn Risk,High-Value Active Customers,1.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+260,0.085,Low Churn Risk,New and Developing Customers,8.5,Monitor,Continue onboarding and monitor engagement.
+261,0.045,Low Churn Risk,Frequent Customers Losing Interest,19.5,Monitor,Monitor engagement trend before offering discount.
+262,0.23,Low Churn Risk,New and Developing Customers,23.0,Monitor,Continue onboarding and monitor engagement.
+263,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+264,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+265,0.03,Low Churn Risk,High-Value Customers Losing Interest,28.0,Monitor,Monitor closely and maintain premium communication.
+266,0.135,Low Churn Risk,New and Developing Customers,13.5,Monitor,Continue onboarding and monitor engagement.
+267,0.05,Low Churn Risk,High-Value Occasional Customers,10.0,Monitor,Maintain engagement with personalised product recommendations.
+268,0.015,Low Churn Risk,High-Value Occasional Customers,6.5,Monitor,Maintain engagement with personalised product recommendations.
+269,0.035,Low Churn Risk,Frequent Customers Losing Interest,18.5,Monitor,Monitor engagement trend before offering discount.
+270,0.655,Medium Churn Risk,New and Developing Customers,65.5,Follow Up Soon,Send welcome offer and nurture campaign.
+271,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+272,0.115,Low Churn Risk,New and Developing Customers,11.5,Monitor,Continue onboarding and monitor engagement.
+273,0.085,Low Churn Risk,Frequent Customers Losing Interest,23.5,Monitor,Monitor engagement trend before offering discount.
+274,0.0,Low Churn Risk,Frequent Low-Value Customers,0.0,Monitor,Encourage higher basket value through product bundles.
+275,0.04,Low Churn Risk,High-Value Customers Losing Interest,29.0,Monitor,Monitor closely and maintain premium communication.
+276,0.115,Low Churn Risk,High-Value Customers Losing Interest,36.5,Monitor,Monitor closely and maintain premium communication.
+277,0.03,Low Churn Risk,Previously Valuable Customers,23.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+278,0.16,Low Churn Risk,High-Value Customers Losing Interest,41.0,Monitor,Monitor closely and maintain premium communication.
+279,0.035,Low Churn Risk,Inactive Customers,13.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+280,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+281,0.03,Low Churn Risk,High-Value Customers Losing Interest,28.0,Monitor,Monitor closely and maintain premium communication.
+282,0.11,Low Churn Risk,New and Developing Customers,11.0,Monitor,Continue onboarding and monitor engagement.
+283,0.635,Medium Churn Risk,High-Value Customers Losing Interest,88.5,Immediate Action,Send personalised high-value recovery offer.
+284,0.185,Low Churn Risk,New and Developing Customers,18.5,Monitor,Continue onboarding and monitor engagement.
+285,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+286,0.055,Low Churn Risk,Previously Valuable Customers,25.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+287,0.715,High Churn Risk,Inactive Customers,81.5,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+288,0.395,Low Churn Risk,Inactive Customers,49.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+289,0.08,Low Churn Risk,Inactive Customers,18.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+290,0.14,Low Churn Risk,New and Developing Customers,14.0,Monitor,Continue onboarding and monitor engagement.
+291,0.435,Medium Churn Risk,New and Developing Customers,43.5,Follow Up Soon,Send welcome offer and nurture campaign.
+292,0.065,Low Churn Risk,High-Value Customers Losing Interest,31.5,Monitor,Monitor closely and maintain premium communication.
+293,0.22,Low Churn Risk,New and Developing Customers,22.0,Monitor,Continue onboarding and monitor engagement.
+294,0.13,Low Churn Risk,Inactive Customers,23.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+295,0.365,Low Churn Risk,High-Value Occasional Customers,41.5,Monitor,Maintain engagement with personalised product recommendations.
+296,0.645,Medium Churn Risk,New and Developing Customers,64.5,Follow Up Soon,Send welcome offer and nurture campaign.
+297,0.095,Low Churn Risk,New and Developing Customers,9.5,Monitor,Continue onboarding and monitor engagement.
+298,0.01,Low Churn Risk,Previously Valuable Customers,21.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+299,0.04,Low Churn Risk,High-Value Occasional Customers,9.0,Monitor,Maintain engagement with personalised product recommendations.
+300,0.405,Medium Churn Risk,Previously Valuable Customers,60.5,Immediate Action,Send re-engagement campaign with loyalty incentive.
+301,0.315,Low Churn Risk,Frequent Customers Losing Interest,46.5,Monitor,Monitor engagement trend before offering discount.
+302,0.05,Low Churn Risk,Previously Valuable Customers,25.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+303,0.145,Low Churn Risk,Inactive Customers,24.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+304,0.27,Low Churn Risk,High-Value Occasional Customers,32.0,Monitor,Maintain engagement with personalised product recommendations.
+305,0.07,Low Churn Risk,Frequent Low-Value Customers,7.0,Monitor,Encourage higher basket value through product bundles.
+306,0.275,Low Churn Risk,New and Developing Customers,27.5,Monitor,Continue onboarding and monitor engagement.
+307,0.01,Low Churn Risk,Frequent Customers Losing Interest,16.0,Monitor,Monitor engagement trend before offering discount.
+308,0.245,Low Churn Risk,High-Value Occasional Customers,29.5,Monitor,Maintain engagement with personalised product recommendations.
+309,0.065,Low Churn Risk,High-Value Customers Losing Interest,31.5,Monitor,Monitor closely and maintain premium communication.
+310,0.02,Low Churn Risk,High-Value Customers Losing Interest,27.0,Monitor,Monitor closely and maintain premium communication.
+311,0.825,High Churn Risk,New and Developing Customers,82.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+312,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+313,0.225,Low Churn Risk,High-Value Occasional Customers,27.5,Monitor,Maintain engagement with personalised product recommendations.
+314,0.065,Low Churn Risk,High-Value Occasional Customers,11.5,Monitor,Maintain engagement with personalised product recommendations.
+315,0.275,Low Churn Risk,High-Value Occasional Customers,32.5,Monitor,Maintain engagement with personalised product recommendations.
+316,0.17,Low Churn Risk,New and Developing Customers,17.0,Monitor,Continue onboarding and monitor engagement.
+317,0.105,Low Churn Risk,Previously Valuable Customers,30.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+318,0.205,Low Churn Risk,New and Developing Customers,20.5,Monitor,Continue onboarding and monitor engagement.
+319,0.25,Low Churn Risk,Frequent Customers Losing Interest,40.0,Monitor,Monitor engagement trend before offering discount.
+320,0.39,Low Churn Risk,Previously Valuable Customers,59.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+321,0.015,Low Churn Risk,Inactive Customers,11.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+322,0.52,Medium Churn Risk,Frequent Customers Losing Interest,67.0,Immediate Action,Send reminder campaign and personalised offer.
+323,0.64,Medium Churn Risk,High-Value Customers Losing Interest,89.0,Immediate Action,Send personalised high-value recovery offer.
+324,0.16,Low Churn Risk,Inactive Customers,26.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+325,0.05,Low Churn Risk,High-Value Customers Losing Interest,30.0,Monitor,Monitor closely and maintain premium communication.
+326,0.025,Low Churn Risk,Previously Valuable Customers,22.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+327,0.085,Low Churn Risk,Frequent Customers Losing Interest,23.5,Monitor,Monitor engagement trend before offering discount.
+328,0.57,Medium Churn Risk,New and Developing Customers,57.0,Follow Up Soon,Send welcome offer and nurture campaign.
+329,0.14,Low Churn Risk,New and Developing Customers,14.0,Monitor,Continue onboarding and monitor engagement.
+330,0.265,Low Churn Risk,High-Value Customers Losing Interest,51.5,Monitor,Monitor closely and maintain premium communication.
+331,0.03,Low Churn Risk,High-Value Occasional Customers,8.0,Monitor,Maintain engagement with personalised product recommendations.
+332,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+333,0.055,Low Churn Risk,High-Value Occasional Customers,10.5,Monitor,Maintain engagement with personalised product recommendations.
+334,0.725,High Churn Risk,High-Value Customers Losing Interest,97.5,Immediate Action,Use premium retention offer and personal outreach immediately.
+335,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+336,0.49,Medium Churn Risk,New and Developing Customers,49.0,Follow Up Soon,Send welcome offer and nurture campaign.
+337,0.115,Low Churn Risk,Frequent Customers Losing Interest,26.5,Monitor,Monitor engagement trend before offering discount.
+338,0.0,Low Churn Risk,New and Developing Customers,0.0,Monitor,Continue onboarding and monitor engagement.
+339,0.155,Low Churn Risk,High-Value Occasional Customers,20.5,Monitor,Maintain engagement with personalised product recommendations.
+340,0.02,Low Churn Risk,High-Value Occasional Customers,7.0,Monitor,Maintain engagement with personalised product recommendations.
+341,0.04,Low Churn Risk,Previously Valuable Customers,24.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+342,0.435,Medium Churn Risk,Previously Valuable Customers,63.5,Immediate Action,Send re-engagement campaign with loyalty incentive.
+343,0.325,Low Churn Risk,Frequent Customers Losing Interest,47.5,Monitor,Monitor engagement trend before offering discount.
+344,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+345,0.545,Medium Churn Risk,New and Developing Customers,54.5,Follow Up Soon,Send welcome offer and nurture campaign.
+346,0.03,Low Churn Risk,High-Value Occasional Customers,8.0,Monitor,Maintain engagement with personalised product recommendations.
+347,0.395,Low Churn Risk,High-Value Active Customers,39.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+348,0.075,Low Churn Risk,High-Value Customers Losing Interest,32.5,Monitor,Monitor closely and maintain premium communication.
+349,0.045,Low Churn Risk,Inactive Customers,14.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+350,0.005,Low Churn Risk,Inactive Customers,10.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+351,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+352,0.51,Medium Churn Risk,Previously Valuable Customers,71.0,Immediate Action,Send re-engagement campaign with loyalty incentive.
+353,0.66,Medium Churn Risk,Inactive Customers,76.0,Immediate Action,Send reminder campaign with small incentive.
+354,0.285,Low Churn Risk,New and Developing Customers,28.5,Monitor,Continue onboarding and monitor engagement.
+355,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+356,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+357,0.005,Low Churn Risk,New and Developing Customers,0.5,Monitor,Continue onboarding and monitor engagement.
+358,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+359,0.035,Low Churn Risk,Frequent Customers Losing Interest,18.5,Monitor,Monitor engagement trend before offering discount.
+360,0.155,Low Churn Risk,New and Developing Customers,15.5,Monitor,Continue onboarding and monitor engagement.
+361,0.02,Low Churn Risk,High-Value Occasional Customers,7.0,Monitor,Maintain engagement with personalised product recommendations.
+362,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+363,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+364,0.075,Low Churn Risk,High-Value Occasional Customers,12.5,Monitor,Maintain engagement with personalised product recommendations.
+365,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+366,0.105,Low Churn Risk,Frequent Customers Losing Interest,25.5,Monitor,Monitor engagement trend before offering discount.
+367,0.645,Medium Churn Risk,High-Value Occasional Customers,69.5,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+368,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+369,0.02,Low Churn Risk,Inactive Customers,12.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+370,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+371,0.72,High Churn Risk,New and Developing Customers,72.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+372,0.025,Low Churn Risk,High-Value Occasional Customers,7.5,Monitor,Maintain engagement with personalised product recommendations.
+373,0.09,Low Churn Risk,New and Developing Customers,9.0,Monitor,Continue onboarding and monitor engagement.
+374,0.03,Low Churn Risk,High-Value Occasional Customers,8.0,Monitor,Maintain engagement with personalised product recommendations.
+375,0.615,Medium Churn Risk,Inactive Customers,71.5,Immediate Action,Send reminder campaign with small incentive.
+376,0.315,Low Churn Risk,New and Developing Customers,31.5,Monitor,Continue onboarding and monitor engagement.
+377,0.05,Low Churn Risk,Previously Valuable Customers,25.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+378,0.005,Low Churn Risk,Frequent Customers Losing Interest,15.5,Monitor,Monitor engagement trend before offering discount.
+379,0.135,Low Churn Risk,New and Developing Customers,13.5,Monitor,Continue onboarding and monitor engagement.
+380,0.055,Low Churn Risk,New and Developing Customers,5.5,Monitor,Continue onboarding and monitor engagement.
+381,0.035,Low Churn Risk,Previously Valuable Customers,23.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+382,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+383,0.02,Low Churn Risk,Previously Valuable Customers,22.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+384,0.09,Low Churn Risk,Previously Valuable Customers,29.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+385,0.025,Low Churn Risk,High-Value Active Customers,2.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+386,0.435,Medium Churn Risk,High-Value Occasional Customers,48.5,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+387,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+388,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+389,0.02,Low Churn Risk,Frequent Customers Losing Interest,17.0,Monitor,Monitor engagement trend before offering discount.
+390,0.08,Low Churn Risk,New and Developing Customers,8.0,Monitor,Continue onboarding and monitor engagement.
+391,0.81,High Churn Risk,New and Developing Customers,81.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+392,0.32,Low Churn Risk,New and Developing Customers,32.0,Monitor,Continue onboarding and monitor engagement.
+393,0.1,Low Churn Risk,Inactive Customers,20.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+394,0.67,Medium Churn Risk,Inactive Customers,77.0,Immediate Action,Send reminder campaign with small incentive.
+395,0.16,Low Churn Risk,High-Value Occasional Customers,21.0,Monitor,Maintain engagement with personalised product recommendations.
+396,0.08,Low Churn Risk,Inactive Customers,18.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+397,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+398,0.03,Low Churn Risk,Frequent Customers Losing Interest,18.0,Monitor,Monitor engagement trend before offering discount.
+399,0.06,Low Churn Risk,Previously Valuable Customers,26.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+400,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+401,0.67,Medium Churn Risk,Frequent Customers Losing Interest,82.0,Immediate Action,Send reminder campaign and personalised offer.
+402,0.175,Low Churn Risk,Inactive Customers,27.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+403,0.08,Low Churn Risk,High-Value Occasional Customers,13.0,Monitor,Maintain engagement with personalised product recommendations.
+404,0.98,High Churn Risk,High-Value Customers Losing Interest,123.0,Immediate Action,Use premium retention offer and personal outreach immediately.
+405,0.025,Low Churn Risk,High-Value Customers Losing Interest,27.5,Monitor,Monitor closely and maintain premium communication.
+406,0.255,Low Churn Risk,High-Value Active Customers,25.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+407,0.37,Low Churn Risk,Inactive Customers,47.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+408,0.045,Low Churn Risk,High-Value Customers Losing Interest,29.5,Monitor,Monitor closely and maintain premium communication.
+409,0.435,Medium Churn Risk,High-Value Occasional Customers,48.5,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+410,0.06,Low Churn Risk,Previously Valuable Customers,26.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+411,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+412,0.09,Low Churn Risk,High-Value Customers Losing Interest,34.0,Monitor,Monitor closely and maintain premium communication.
+413,0.515,Medium Churn Risk,High-Value Customers Losing Interest,76.5,Immediate Action,Send personalised high-value recovery offer.
+414,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+415,0.05,Low Churn Risk,Frequent Customers Losing Interest,20.0,Monitor,Monitor engagement trend before offering discount.
+416,0.12,Low Churn Risk,High-Value Occasional Customers,17.0,Monitor,Maintain engagement with personalised product recommendations.
+417,0.01,Low Churn Risk,High-Value Occasional Customers,6.0,Monitor,Maintain engagement with personalised product recommendations.
+418,0.88,High Churn Risk,Inactive Customers,98.0,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+419,0.725,High Churn Risk,High-Value Customers Losing Interest,97.5,Immediate Action,Use premium retention offer and personal outreach immediately.
+420,0.085,Low Churn Risk,Frequent Customers Losing Interest,23.5,Monitor,Monitor engagement trend before offering discount.
+421,0.38,Low Churn Risk,New and Developing Customers,38.0,Monitor,Continue onboarding and monitor engagement.
+422,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+423,0.045,Low Churn Risk,High-Value Occasional Customers,9.5,Monitor,Maintain engagement with personalised product recommendations.
+424,0.085,Low Churn Risk,Frequent Low-Value Customers,8.5,Monitor,Encourage higher basket value through product bundles.
+425,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+426,0.05,Low Churn Risk,Previously Valuable Customers,25.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+427,0.905,High Churn Risk,High-Value Occasional Customers,95.5,Immediate Action,Send premium personalised retention offer.
+428,0.14,Low Churn Risk,New and Developing Customers,14.0,Monitor,Continue onboarding and monitor engagement.
+429,0.645,Medium Churn Risk,High-Value Customers Losing Interest,89.5,Immediate Action,Send personalised high-value recovery offer.
+430,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+431,0.055,Low Churn Risk,New and Developing Customers,5.5,Monitor,Continue onboarding and monitor engagement.
+432,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+433,0.05,Low Churn Risk,Frequent Customers Losing Interest,20.0,Monitor,Monitor engagement trend before offering discount.
+434,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+435,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+436,0.005,Low Churn Risk,High-Value Customers Losing Interest,25.5,Monitor,Monitor closely and maintain premium communication.
+437,0.005,Low Churn Risk,Frequent Customers Losing Interest,15.5,Monitor,Monitor engagement trend before offering discount.
+438,0.03,Low Churn Risk,Inactive Customers,13.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+439,0.015,Low Churn Risk,High-Value Active Customers,1.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+440,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+441,0.095,Low Churn Risk,High-Value Occasional Customers,14.5,Monitor,Maintain engagement with personalised product recommendations.
+442,0.16,Low Churn Risk,Inactive Customers,26.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+443,0.95,High Churn Risk,High-Value Customers Losing Interest,120.0,Immediate Action,Use premium retention offer and personal outreach immediately.
+444,0.04,Low Churn Risk,High-Value Customers Losing Interest,29.0,Monitor,Monitor closely and maintain premium communication.
+445,0.855,High Churn Risk,New and Developing Customers,85.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+446,0.2,Low Churn Risk,New and Developing Customers,20.0,Monitor,Continue onboarding and monitor engagement.
+447,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+448,0.2,Low Churn Risk,New and Developing Customers,20.0,Monitor,Continue onboarding and monitor engagement.
+449,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+450,0.245,Low Churn Risk,Inactive Customers,34.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+451,0.08,Low Churn Risk,New and Developing Customers,8.0,Monitor,Continue onboarding and monitor engagement.
+452,0.015,Low Churn Risk,Frequent Low-Value Customers,1.5,Monitor,Encourage higher basket value through product bundles.
+453,0.125,Low Churn Risk,Frequent Customers Losing Interest,27.5,Monitor,Monitor engagement trend before offering discount.
+454,0.06,Low Churn Risk,New and Developing Customers,6.0,Monitor,Continue onboarding and monitor engagement.
+455,0.51,Medium Churn Risk,New and Developing Customers,51.0,Follow Up Soon,Send welcome offer and nurture campaign.
+456,0.08,Low Churn Risk,New and Developing Customers,8.0,Monitor,Continue onboarding and monitor engagement.
+457,0.08,Low Churn Risk,Frequent Customers Losing Interest,23.0,Monitor,Monitor engagement trend before offering discount.
+458,0.015,Low Churn Risk,High-Value Occasional Customers,6.5,Monitor,Maintain engagement with personalised product recommendations.
+459,0.03,Low Churn Risk,Previously Valuable Customers,23.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+460,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+461,0.48,Medium Churn Risk,New and Developing Customers,48.0,Follow Up Soon,Send welcome offer and nurture campaign.
+462,0.025,Low Churn Risk,Inactive Customers,12.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+463,0.545,Medium Churn Risk,High-Value Occasional Customers,59.5,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+464,0.005,Low Churn Risk,New and Developing Customers,0.5,Monitor,Continue onboarding and monitor engagement.
+465,0.085,Low Churn Risk,High-Value Active Customers,8.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+466,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+467,0.015,Low Churn Risk,High-Value Active Customers,1.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+468,0.015,Low Churn Risk,Inactive Customers,11.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+469,0.01,Low Churn Risk,Inactive Customers,11.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+470,0.02,Low Churn Risk,Previously Valuable Customers,22.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+471,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+472,0.09,Low Churn Risk,New and Developing Customers,9.0,Monitor,Continue onboarding and monitor engagement.
+473,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+474,0.01,Low Churn Risk,Inactive Customers,11.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+475,0.19,Low Churn Risk,Frequent Customers Losing Interest,34.0,Monitor,Monitor engagement trend before offering discount.
+476,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+477,0.125,Low Churn Risk,High-Value Occasional Customers,17.5,Monitor,Maintain engagement with personalised product recommendations.
+478,0.175,Low Churn Risk,New and Developing Customers,17.5,Monitor,Continue onboarding and monitor engagement.
+479,0.0,Low Churn Risk,Frequent Customers Losing Interest,15.0,Monitor,Monitor engagement trend before offering discount.
+480,0.155,Low Churn Risk,New and Developing Customers,15.5,Monitor,Continue onboarding and monitor engagement.
+481,0.91,High Churn Risk,New and Developing Customers,91.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+482,0.015,Low Churn Risk,Previously Valuable Customers,21.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+483,0.23,Low Churn Risk,Frequent Low-Value Customers,23.0,Monitor,Encourage higher basket value through product bundles.
+484,0.13,Low Churn Risk,High-Value Occasional Customers,18.0,Monitor,Maintain engagement with personalised product recommendations.
+485,0.035,Low Churn Risk,High-Value Occasional Customers,8.5,Monitor,Maintain engagement with personalised product recommendations.
+486,0.08,Low Churn Risk,High-Value Customers Losing Interest,33.0,Monitor,Monitor closely and maintain premium communication.
+487,0.975,High Churn Risk,Frequent Customers Losing Interest,112.5,Immediate Action,Send urgent re-engagement campaign with loyalty reward.
+488,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+489,0.16,Low Churn Risk,Inactive Customers,26.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+490,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+491,0.12,Low Churn Risk,Previously Valuable Customers,32.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+492,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+493,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+494,0.12,Low Churn Risk,Inactive Customers,22.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+495,0.09,Low Churn Risk,New and Developing Customers,9.0,Monitor,Continue onboarding and monitor engagement.
+496,0.105,Low Churn Risk,Frequent Customers Losing Interest,25.5,Monitor,Monitor engagement trend before offering discount.
+497,0.875,High Churn Risk,New and Developing Customers,87.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+498,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+499,0.02,Low Churn Risk,High-Value Occasional Customers,7.0,Monitor,Maintain engagement with personalised product recommendations.
+500,0.415,Medium Churn Risk,High-Value Occasional Customers,46.5,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+501,0.26,Low Churn Risk,New and Developing Customers,26.0,Monitor,Continue onboarding and monitor engagement.
+502,0.535,Medium Churn Risk,High-Value Occasional Customers,58.5,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+503,0.035,Low Churn Risk,High-Value Occasional Customers,8.5,Monitor,Maintain engagement with personalised product recommendations.
+504,0.12,Low Churn Risk,Inactive Customers,22.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+505,0.09,Low Churn Risk,New and Developing Customers,9.0,Monitor,Continue onboarding and monitor engagement.
+506,0.4,Medium Churn Risk,New and Developing Customers,40.0,Follow Up Soon,Send welcome offer and nurture campaign.
+507,0.09,Low Churn Risk,New and Developing Customers,9.0,Monitor,Continue onboarding and monitor engagement.
+508,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+509,0.155,Low Churn Risk,New and Developing Customers,15.5,Monitor,Continue onboarding and monitor engagement.
+510,0.005,Low Churn Risk,Previously Valuable Customers,20.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+511,0.065,Low Churn Risk,Frequent Customers Losing Interest,21.5,Monitor,Monitor engagement trend before offering discount.
+512,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+513,0.11,Low Churn Risk,New and Developing Customers,11.0,Monitor,Continue onboarding and monitor engagement.
+514,0.345,Low Churn Risk,New and Developing Customers,34.5,Monitor,Continue onboarding and monitor engagement.
+515,0.045,Low Churn Risk,Frequent Customers Losing Interest,19.5,Monitor,Monitor engagement trend before offering discount.
+516,0.09,Low Churn Risk,High-Value Active Customers,9.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+517,0.115,Low Churn Risk,New and Developing Customers,11.5,Monitor,Continue onboarding and monitor engagement.
+518,0.505,Medium Churn Risk,New and Developing Customers,50.5,Follow Up Soon,Send welcome offer and nurture campaign.
+519,0.96,High Churn Risk,New and Developing Customers,96.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+520,0.455,Medium Churn Risk,New and Developing Customers,45.5,Follow Up Soon,Send welcome offer and nurture campaign.
+521,0.25,Low Churn Risk,High-Value Occasional Customers,30.0,Monitor,Maintain engagement with personalised product recommendations.
+522,0.09,Low Churn Risk,Previously Valuable Customers,29.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+523,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+524,0.06,Low Churn Risk,High-Value Customers Losing Interest,31.0,Monitor,Monitor closely and maintain premium communication.
+525,0.055,Low Churn Risk,New and Developing Customers,5.5,Monitor,Continue onboarding and monitor engagement.
+526,0.195,Low Churn Risk,Frequent Customers Losing Interest,34.5,Monitor,Monitor engagement trend before offering discount.
+527,0.18,Low Churn Risk,High-Value Customers Losing Interest,43.0,Monitor,Monitor closely and maintain premium communication.
+528,0.095,Low Churn Risk,Previously Valuable Customers,29.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+529,0.62,Medium Churn Risk,Inactive Customers,72.0,Immediate Action,Send reminder campaign with small incentive.
+530,0.125,Low Churn Risk,New and Developing Customers,12.5,Monitor,Continue onboarding and monitor engagement.
+531,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+532,0.19,Low Churn Risk,New and Developing Customers,19.0,Monitor,Continue onboarding and monitor engagement.
+533,0.52,Medium Churn Risk,Frequent Low-Value Customers,52.0,Follow Up Soon,Use cross-sell and upsell campaigns.
+534,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+535,0.13,Low Churn Risk,New and Developing Customers,13.0,Monitor,Continue onboarding and monitor engagement.
+536,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+537,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+538,0.61,Medium Churn Risk,New and Developing Customers,61.0,Follow Up Soon,Send welcome offer and nurture campaign.
+539,0.325,Low Churn Risk,Previously Valuable Customers,52.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+540,0.19,Low Churn Risk,New and Developing Customers,19.0,Monitor,Continue onboarding and monitor engagement.
+541,0.17,Low Churn Risk,New and Developing Customers,17.0,Monitor,Continue onboarding and monitor engagement.
+542,0.145,Low Churn Risk,New and Developing Customers,14.5,Monitor,Continue onboarding and monitor engagement.
+543,0.565,Medium Churn Risk,New and Developing Customers,56.5,Follow Up Soon,Send welcome offer and nurture campaign.
+544,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+545,0.395,Low Churn Risk,New and Developing Customers,39.5,Monitor,Continue onboarding and monitor engagement.
+546,0.145,Low Churn Risk,New and Developing Customers,14.5,Monitor,Continue onboarding and monitor engagement.
+547,0.935,High Churn Risk,New and Developing Customers,93.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+548,0.51,Medium Churn Risk,New and Developing Customers,51.0,Follow Up Soon,Send welcome offer and nurture campaign.
+549,0.07,Low Churn Risk,High-Value Customers Losing Interest,32.0,Monitor,Monitor closely and maintain premium communication.
+550,0.02,Low Churn Risk,Frequent Low-Value Customers,2.0,Monitor,Encourage higher basket value through product bundles.
+551,0.025,Low Churn Risk,Inactive Customers,12.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+552,0.045,Low Churn Risk,High-Value Customers Losing Interest,29.5,Monitor,Monitor closely and maintain premium communication.
+553,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+554,0.11,Low Churn Risk,High-Value Occasional Customers,16.0,Monitor,Maintain engagement with personalised product recommendations.
+555,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+556,0.69,Medium Churn Risk,High-Value Customers Losing Interest,94.0,Immediate Action,Send personalised high-value recovery offer.
+557,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+558,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+559,0.03,Low Churn Risk,High-Value Occasional Customers,8.0,Monitor,Maintain engagement with personalised product recommendations.
+560,0.865,High Churn Risk,Inactive Customers,96.5,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+561,0.105,Low Churn Risk,Inactive Customers,20.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+562,0.15,Low Churn Risk,Frequent Customers Losing Interest,30.0,Monitor,Monitor engagement trend before offering discount.
+563,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+564,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+565,0.035,Low Churn Risk,Frequent Customers Losing Interest,18.5,Monitor,Monitor engagement trend before offering discount.
+566,0.075,Low Churn Risk,New and Developing Customers,7.5,Monitor,Continue onboarding and monitor engagement.
+567,0.04,Low Churn Risk,High-Value Active Customers,4.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+568,0.04,Low Churn Risk,Previously Valuable Customers,24.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+569,0.04,Low Churn Risk,High-Value Customers Losing Interest,29.0,Monitor,Monitor closely and maintain premium communication.
+570,0.075,Low Churn Risk,Previously Valuable Customers,27.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+571,0.015,Low Churn Risk,Inactive Customers,11.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+572,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+573,0.245,Low Churn Risk,New and Developing Customers,24.5,Monitor,Continue onboarding and monitor engagement.
+574,0.845,High Churn Risk,Previously Valuable Customers,104.5,Immediate Action,Run priority win-back campaign with personalised discount and direct follow-up.
+575,0.49,Medium Churn Risk,New and Developing Customers,49.0,Follow Up Soon,Send welcome offer and nurture campaign.
+576,0.005,Low Churn Risk,High-Value Occasional Customers,5.5,Monitor,Maintain engagement with personalised product recommendations.
+577,0.1,Low Churn Risk,Previously Valuable Customers,30.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+578,0.175,Low Churn Risk,New and Developing Customers,17.5,Monitor,Continue onboarding and monitor engagement.
+579,0.245,Low Churn Risk,High-Value Customers Losing Interest,49.5,Monitor,Monitor closely and maintain premium communication.
+580,0.035,Low Churn Risk,High-Value Customers Losing Interest,28.5,Monitor,Monitor closely and maintain premium communication.
+581,0.125,Low Churn Risk,High-Value Occasional Customers,17.5,Monitor,Maintain engagement with personalised product recommendations.
+582,0.08,Low Churn Risk,Inactive Customers,18.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+583,0.055,Low Churn Risk,Inactive Customers,15.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+584,0.005,Low Churn Risk,New and Developing Customers,0.5,Monitor,Continue onboarding and monitor engagement.
+585,0.07,Low Churn Risk,High-Value Active Customers,7.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+586,0.79,High Churn Risk,New and Developing Customers,79.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+587,0.26,Low Churn Risk,New and Developing Customers,26.0,Monitor,Continue onboarding and monitor engagement.
+588,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+589,0.015,Low Churn Risk,High-Value Occasional Customers,6.5,Monitor,Maintain engagement with personalised product recommendations.
+590,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+591,0.175,Low Churn Risk,High-Value Customers Losing Interest,42.5,Monitor,Monitor closely and maintain premium communication.
+592,0.095,Low Churn Risk,New and Developing Customers,9.5,Monitor,Continue onboarding and monitor engagement.
+593,0.01,Low Churn Risk,Inactive Customers,11.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+594,0.81,High Churn Risk,Inactive Customers,91.0,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+595,0.01,Low Churn Risk,New and Developing Customers,1.0,Monitor,Continue onboarding and monitor engagement.
+596,0.14,Low Churn Risk,High-Value Customers Losing Interest,39.0,Monitor,Monitor closely and maintain premium communication.
+597,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+598,0.175,Low Churn Risk,High-Value Customers Losing Interest,42.5,Monitor,Monitor closely and maintain premium communication.
+599,0.165,Low Churn Risk,Frequent Low-Value Customers,16.5,Monitor,Encourage higher basket value through product bundles.
+600,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+601,0.515,Medium Churn Risk,New and Developing Customers,51.5,Follow Up Soon,Send welcome offer and nurture campaign.
+602,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+603,0.04,Low Churn Risk,High-Value Customers Losing Interest,29.0,Monitor,Monitor closely and maintain premium communication.
+604,0.03,Low Churn Risk,High-Value Active Customers,3.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+605,0.035,Low Churn Risk,High-Value Occasional Customers,8.5,Monitor,Maintain engagement with personalised product recommendations.
+606,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+607,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+608,0.735,High Churn Risk,New and Developing Customers,73.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+609,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+610,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+611,0.545,Medium Churn Risk,High-Value Active Customers,54.5,Follow Up Soon,Send loyalty reward and monitor satisfaction.
+612,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+613,0.495,Medium Churn Risk,High-Value Active Customers,49.5,Follow Up Soon,Send loyalty reward and monitor satisfaction.
+614,0.01,Low Churn Risk,New and Developing Customers,1.0,Monitor,Continue onboarding and monitor engagement.
+615,0.14,Low Churn Risk,New and Developing Customers,14.0,Monitor,Continue onboarding and monitor engagement.
+616,0.445,Medium Churn Risk,High-Value Occasional Customers,49.5,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+617,0.385,Low Churn Risk,New and Developing Customers,38.5,Monitor,Continue onboarding and monitor engagement.
+618,0.51,Medium Churn Risk,High-Value Occasional Customers,56.0,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+619,0.88,High Churn Risk,New and Developing Customers,88.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+620,0.41,Medium Churn Risk,Previously Valuable Customers,61.0,Immediate Action,Send re-engagement campaign with loyalty incentive.
+621,0.035,Low Churn Risk,Previously Valuable Customers,23.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+622,0.05,Low Churn Risk,High-Value Occasional Customers,10.0,Monitor,Maintain engagement with personalised product recommendations.
+623,0.24,Low Churn Risk,New and Developing Customers,24.0,Monitor,Continue onboarding and monitor engagement.
+624,0.035,Low Churn Risk,Previously Valuable Customers,23.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+625,0.08,Low Churn Risk,High-Value Customers Losing Interest,33.0,Monitor,Monitor closely and maintain premium communication.
+626,0.02,Low Churn Risk,High-Value Customers Losing Interest,27.0,Monitor,Monitor closely and maintain premium communication.
+627,0.01,Low Churn Risk,Frequent Customers Losing Interest,16.0,Monitor,Monitor engagement trend before offering discount.
+628,0.175,Low Churn Risk,High-Value Customers Losing Interest,42.5,Monitor,Monitor closely and maintain premium communication.
+629,0.085,Low Churn Risk,New and Developing Customers,8.5,Monitor,Continue onboarding and monitor engagement.
+630,0.02,Low Churn Risk,High-Value Occasional Customers,7.0,Monitor,Maintain engagement with personalised product recommendations.
+631,0.29,Low Churn Risk,Frequent Customers Losing Interest,44.0,Monitor,Monitor engagement trend before offering discount.
+632,0.74,High Churn Risk,High-Value Customers Losing Interest,99.0,Immediate Action,Use premium retention offer and personal outreach immediately.
+633,0.09,Low Churn Risk,High-Value Occasional Customers,14.0,Monitor,Maintain engagement with personalised product recommendations.
+634,0.02,Low Churn Risk,Inactive Customers,12.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+635,0.64,Medium Churn Risk,Previously Valuable Customers,84.0,Immediate Action,Send re-engagement campaign with loyalty incentive.
+636,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+637,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+638,0.58,Medium Churn Risk,New and Developing Customers,58.0,Follow Up Soon,Send welcome offer and nurture campaign.
+639,0.125,Low Churn Risk,New and Developing Customers,12.5,Monitor,Continue onboarding and monitor engagement.
+640,0.14,Low Churn Risk,New and Developing Customers,14.0,Monitor,Continue onboarding and monitor engagement.
+641,0.655,Medium Churn Risk,Previously Valuable Customers,85.5,Immediate Action,Send re-engagement campaign with loyalty incentive.
+642,0.13,Low Churn Risk,New and Developing Customers,13.0,Monitor,Continue onboarding and monitor engagement.
+643,0.165,Low Churn Risk,Previously Valuable Customers,36.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+644,0.08,Low Churn Risk,New and Developing Customers,8.0,Monitor,Continue onboarding and monitor engagement.
+645,0.895,High Churn Risk,High-Value Occasional Customers,94.5,Immediate Action,Send premium personalised retention offer.
+646,0.145,Low Churn Risk,High-Value Active Customers,14.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+647,0.235,Low Churn Risk,New and Developing Customers,23.5,Monitor,Continue onboarding and monitor engagement.
+648,0.065,Low Churn Risk,Previously Valuable Customers,26.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+649,0.075,Low Churn Risk,High-Value Active Customers,7.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+650,0.085,Low Churn Risk,High-Value Occasional Customers,13.5,Monitor,Maintain engagement with personalised product recommendations.
+651,0.83,High Churn Risk,New and Developing Customers,83.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+652,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+653,0.03,Low Churn Risk,Inactive Customers,13.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+654,0.145,Low Churn Risk,Inactive Customers,24.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+655,0.615,Medium Churn Risk,High-Value Customers Losing Interest,86.5,Immediate Action,Send personalised high-value recovery offer.
+656,0.725,High Churn Risk,New and Developing Customers,72.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+657,0.01,Low Churn Risk,High-Value Occasional Customers,6.0,Monitor,Maintain engagement with personalised product recommendations.
+658,0.46,Medium Churn Risk,Inactive Customers,56.0,Immediate Action,Send reminder campaign with small incentive.
+659,0.065,Low Churn Risk,High-Value Customers Losing Interest,31.5,Monitor,Monitor closely and maintain premium communication.
+660,0.845,High Churn Risk,High-Value Active Customers,84.5,Immediate Action,Investigate churn drivers immediately and provide premium loyalty support.
+661,0.18,Low Churn Risk,New and Developing Customers,18.0,Monitor,Continue onboarding and monitor engagement.
+662,0.075,Low Churn Risk,High-Value Occasional Customers,12.5,Monitor,Maintain engagement with personalised product recommendations.
+663,0.02,Low Churn Risk,Inactive Customers,12.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+664,0.165,Low Churn Risk,Previously Valuable Customers,36.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+665,0.29,Low Churn Risk,High-Value Occasional Customers,34.0,Monitor,Maintain engagement with personalised product recommendations.
+666,0.795,High Churn Risk,Previously Valuable Customers,99.5,Immediate Action,Run priority win-back campaign with personalised discount and direct follow-up.
+667,0.01,Low Churn Risk,Frequent Customers Losing Interest,16.0,Monitor,Monitor engagement trend before offering discount.
+668,0.01,Low Churn Risk,New and Developing Customers,1.0,Monitor,Continue onboarding and monitor engagement.
+669,0.065,Low Churn Risk,High-Value Customers Losing Interest,31.5,Monitor,Monitor closely and maintain premium communication.
+670,0.17,Low Churn Risk,High-Value Occasional Customers,22.0,Monitor,Maintain engagement with personalised product recommendations.
+671,0.075,Low Churn Risk,Frequent Customers Losing Interest,22.5,Monitor,Monitor engagement trend before offering discount.
+672,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+673,0.175,Low Churn Risk,New and Developing Customers,17.5,Monitor,Continue onboarding and monitor engagement.
+674,0.065,Low Churn Risk,Previously Valuable Customers,26.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+675,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+676,0.205,Low Churn Risk,New and Developing Customers,20.5,Monitor,Continue onboarding and monitor engagement.
+677,0.655,Medium Churn Risk,New and Developing Customers,65.5,Follow Up Soon,Send welcome offer and nurture campaign.
+678,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+679,0.02,Low Churn Risk,High-Value Occasional Customers,7.0,Monitor,Maintain engagement with personalised product recommendations.
+680,0.14,Low Churn Risk,Frequent Customers Losing Interest,29.0,Monitor,Monitor engagement trend before offering discount.
+681,0.01,Low Churn Risk,High-Value Active Customers,1.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+682,0.045,Low Churn Risk,High-Value Customers Losing Interest,29.5,Monitor,Monitor closely and maintain premium communication.
+683,0.08,Low Churn Risk,Inactive Customers,18.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+684,0.69,Medium Churn Risk,High-Value Customers Losing Interest,94.0,Immediate Action,Send personalised high-value recovery offer.
+685,0.05,Low Churn Risk,Previously Valuable Customers,25.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+686,0.875,High Churn Risk,High-Value Occasional Customers,92.5,Immediate Action,Send premium personalised retention offer.
+687,0.065,Low Churn Risk,High-Value Occasional Customers,11.5,Monitor,Maintain engagement with personalised product recommendations.
+688,0.785,High Churn Risk,High-Value Active Customers,78.5,Immediate Action,Investigate churn drivers immediately and provide premium loyalty support.
+689,0.115,Low Churn Risk,Previously Valuable Customers,31.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+690,0.835,High Churn Risk,New and Developing Customers,83.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+691,0.49,Medium Churn Risk,High-Value Occasional Customers,54.0,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+692,0.375,Low Churn Risk,High-Value Customers Losing Interest,62.5,Monitor,Monitor closely and maintain premium communication.
+693,0.435,Medium Churn Risk,New and Developing Customers,43.5,Follow Up Soon,Send welcome offer and nurture campaign.
+694,0.05,Low Churn Risk,Inactive Customers,15.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+695,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+696,0.02,Low Churn Risk,High-Value Occasional Customers,7.0,Monitor,Maintain engagement with personalised product recommendations.
+697,0.01,Low Churn Risk,New and Developing Customers,1.0,Monitor,Continue onboarding and monitor engagement.
+698,0.085,Low Churn Risk,New and Developing Customers,8.5,Monitor,Continue onboarding and monitor engagement.
+699,0.205,Low Churn Risk,New and Developing Customers,20.5,Monitor,Continue onboarding and monitor engagement.
+700,0.835,High Churn Risk,New and Developing Customers,83.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+701,0.305,Low Churn Risk,Frequent Low-Value Customers,30.5,Monitor,Encourage higher basket value through product bundles.
+702,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+703,0.365,Low Churn Risk,New and Developing Customers,36.5,Monitor,Continue onboarding and monitor engagement.
+704,0.01,Low Churn Risk,High-Value Occasional Customers,6.0,Monitor,Maintain engagement with personalised product recommendations.
+705,0.075,Low Churn Risk,New and Developing Customers,7.5,Monitor,Continue onboarding and monitor engagement.
+706,0.185,Low Churn Risk,New and Developing Customers,18.5,Monitor,Continue onboarding and monitor engagement.
+707,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+708,0.21,Low Churn Risk,New and Developing Customers,21.0,Monitor,Continue onboarding and monitor engagement.
+709,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+710,0.005,Low Churn Risk,Inactive Customers,10.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+711,0.0,Low Churn Risk,Previously Valuable Customers,20.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+712,0.83,High Churn Risk,High-Value Customers Losing Interest,108.0,Immediate Action,Use premium retention offer and personal outreach immediately.
+713,0.015,Low Churn Risk,High-Value Customers Losing Interest,26.5,Monitor,Monitor closely and maintain premium communication.
+714,0.56,Medium Churn Risk,Inactive Customers,66.0,Immediate Action,Send reminder campaign with small incentive.
+715,0.82,High Churn Risk,Inactive Customers,92.0,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+716,0.675,Medium Churn Risk,New and Developing Customers,67.5,Follow Up Soon,Send welcome offer and nurture campaign.
+717,0.135,Low Churn Risk,New and Developing Customers,13.5,Monitor,Continue onboarding and monitor engagement.
+718,0.02,Low Churn Risk,Inactive Customers,12.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+719,0.09,Low Churn Risk,High-Value Customers Losing Interest,34.0,Monitor,Monitor closely and maintain premium communication.
+720,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+721,0.01,Low Churn Risk,Previously Valuable Customers,21.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+722,0.515,Medium Churn Risk,Frequent Customers Losing Interest,66.5,Immediate Action,Send reminder campaign and personalised offer.
+723,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+724,0.225,Low Churn Risk,New and Developing Customers,22.5,Monitor,Continue onboarding and monitor engagement.
+725,0.275,Low Churn Risk,New and Developing Customers,27.5,Monitor,Continue onboarding and monitor engagement.
+726,0.205,Low Churn Risk,High-Value Active Customers,20.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+727,0.095,Low Churn Risk,Inactive Customers,19.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+728,0.09,Low Churn Risk,New and Developing Customers,9.0,Monitor,Continue onboarding and monitor engagement.
+729,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+730,0.25,Low Churn Risk,Previously Valuable Customers,45.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+731,0.075,Low Churn Risk,New and Developing Customers,7.5,Monitor,Continue onboarding and monitor engagement.
+732,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+733,0.555,Medium Churn Risk,Previously Valuable Customers,75.5,Immediate Action,Send re-engagement campaign with loyalty incentive.
+734,0.65,Medium Churn Risk,New and Developing Customers,65.0,Follow Up Soon,Send welcome offer and nurture campaign.
+735,0.805,High Churn Risk,New and Developing Customers,80.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+736,0.015,Low Churn Risk,Previously Valuable Customers,21.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+737,0.115,Low Churn Risk,New and Developing Customers,11.5,Monitor,Continue onboarding and monitor engagement.
+738,0.005,Low Churn Risk,Inactive Customers,10.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+739,0.32,Low Churn Risk,New and Developing Customers,32.0,Monitor,Continue onboarding and monitor engagement.
+740,0.2,Low Churn Risk,New and Developing Customers,20.0,Monitor,Continue onboarding and monitor engagement.
+741,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+742,0.025,Low Churn Risk,High-Value Occasional Customers,7.5,Monitor,Maintain engagement with personalised product recommendations.
+743,0.025,Low Churn Risk,Frequent Low-Value Customers,2.5,Monitor,Encourage higher basket value through product bundles.
+744,0.075,Low Churn Risk,High-Value Occasional Customers,12.5,Monitor,Maintain engagement with personalised product recommendations.
+745,0.02,Low Churn Risk,High-Value Customers Losing Interest,27.0,Monitor,Monitor closely and maintain premium communication.
+746,0.22,Low Churn Risk,New and Developing Customers,22.0,Monitor,Continue onboarding and monitor engagement.
+747,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+748,0.005,Low Churn Risk,Inactive Customers,10.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+749,0.52,Medium Churn Risk,Frequent Customers Losing Interest,67.0,Immediate Action,Send reminder campaign and personalised offer.
+750,0.045,Low Churn Risk,Inactive Customers,14.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+751,0.875,High Churn Risk,New and Developing Customers,87.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+752,0.07,Low Churn Risk,High-Value Customers Losing Interest,32.0,Monitor,Monitor closely and maintain premium communication.
+753,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+754,0.055,Low Churn Risk,Inactive Customers,15.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+755,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+756,0.04,Low Churn Risk,Inactive Customers,14.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+757,0.075,Low Churn Risk,Previously Valuable Customers,27.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+758,0.17,Low Churn Risk,Frequent Customers Losing Interest,32.0,Monitor,Monitor engagement trend before offering discount.
+759,0.04,Low Churn Risk,High-Value Occasional Customers,9.0,Monitor,Maintain engagement with personalised product recommendations.
+760,0.135,Low Churn Risk,New and Developing Customers,13.5,Monitor,Continue onboarding and monitor engagement.
+761,0.085,Low Churn Risk,Frequent Customers Losing Interest,23.5,Monitor,Monitor engagement trend before offering discount.
+762,0.09,Low Churn Risk,High-Value Occasional Customers,14.0,Monitor,Maintain engagement with personalised product recommendations.
+763,0.285,Low Churn Risk,Previously Valuable Customers,48.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+764,0.58,Medium Churn Risk,Frequent Customers Losing Interest,73.0,Immediate Action,Send reminder campaign and personalised offer.
+765,0.1,Low Churn Risk,High-Value Customers Losing Interest,35.0,Monitor,Monitor closely and maintain premium communication.
+766,0.8,High Churn Risk,Frequent Customers Losing Interest,95.0,Immediate Action,Send urgent re-engagement campaign with loyalty reward.
+767,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+768,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+769,0.005,Low Churn Risk,High-Value Customers Losing Interest,25.5,Monitor,Monitor closely and maintain premium communication.
+770,0.06,Low Churn Risk,High-Value Occasional Customers,11.0,Monitor,Maintain engagement with personalised product recommendations.
+771,0.085,Low Churn Risk,High-Value Customers Losing Interest,33.5,Monitor,Monitor closely and maintain premium communication.
+772,0.02,Low Churn Risk,Inactive Customers,12.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+773,0.0,Low Churn Risk,High-Value Customers Losing Interest,25.0,Monitor,Monitor closely and maintain premium communication.
+774,0.095,Low Churn Risk,High-Value Occasional Customers,14.5,Monitor,Maintain engagement with personalised product recommendations.
+775,0.725,High Churn Risk,Inactive Customers,82.5,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+776,0.12,Low Churn Risk,New and Developing Customers,12.0,Monitor,Continue onboarding and monitor engagement.
+777,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+778,0.18,Low Churn Risk,High-Value Occasional Customers,23.0,Monitor,Maintain engagement with personalised product recommendations.
+779,0.035,Low Churn Risk,High-Value Occasional Customers,8.5,Monitor,Maintain engagement with personalised product recommendations.
+780,0.09,Low Churn Risk,High-Value Customers Losing Interest,34.0,Monitor,Monitor closely and maintain premium communication.
+781,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+782,0.07,Low Churn Risk,Previously Valuable Customers,27.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+783,0.01,Low Churn Risk,High-Value Customers Losing Interest,26.0,Monitor,Monitor closely and maintain premium communication.
+784,0.11,Low Churn Risk,New and Developing Customers,11.0,Monitor,Continue onboarding and monitor engagement.
+785,0.505,Medium Churn Risk,New and Developing Customers,50.5,Follow Up Soon,Send welcome offer and nurture campaign.
+786,0.075,Low Churn Risk,New and Developing Customers,7.5,Monitor,Continue onboarding and monitor engagement.
+787,0.15,Low Churn Risk,New and Developing Customers,15.0,Monitor,Continue onboarding and monitor engagement.
+788,0.855,High Churn Risk,High-Value Customers Losing Interest,110.5,Immediate Action,Use premium retention offer and personal outreach immediately.
+789,0.14,Low Churn Risk,High-Value Occasional Customers,19.0,Monitor,Maintain engagement with personalised product recommendations.
+790,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+791,0.005,Low Churn Risk,High-Value Customers Losing Interest,25.5,Monitor,Monitor closely and maintain premium communication.
+792,0.25,Low Churn Risk,New and Developing Customers,25.0,Monitor,Continue onboarding and monitor engagement.
+793,0.19,Low Churn Risk,Previously Valuable Customers,39.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+794,0.055,Low Churn Risk,Previously Valuable Customers,25.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+795,0.055,Low Churn Risk,Frequent Customers Losing Interest,20.5,Monitor,Monitor engagement trend before offering discount.
+796,0.255,Low Churn Risk,New and Developing Customers,25.5,Monitor,Continue onboarding and monitor engagement.
+797,0.06,Low Churn Risk,Previously Valuable Customers,26.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+798,0.255,Low Churn Risk,Inactive Customers,35.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+799,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+800,0.755,High Churn Risk,New and Developing Customers,75.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+801,0.06,Low Churn Risk,Previously Valuable Customers,26.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+802,0.065,Low Churn Risk,Frequent Customers Losing Interest,21.5,Monitor,Monitor engagement trend before offering discount.
+803,0.045,Low Churn Risk,High-Value Customers Losing Interest,29.5,Monitor,Monitor closely and maintain premium communication.
+804,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+805,0.77,High Churn Risk,Frequent Customers Losing Interest,92.0,Immediate Action,Send urgent re-engagement campaign with loyalty reward.
+806,0.025,Low Churn Risk,Inactive Customers,12.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+807,0.07,Low Churn Risk,Frequent Customers Losing Interest,22.0,Monitor,Monitor engagement trend before offering discount.
+808,0.17,Low Churn Risk,New and Developing Customers,17.0,Monitor,Continue onboarding and monitor engagement.
+809,0.0,Low Churn Risk,New and Developing Customers,0.0,Monitor,Continue onboarding and monitor engagement.
+810,0.155,Low Churn Risk,Inactive Customers,25.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+811,0.07,Low Churn Risk,High-Value Occasional Customers,12.0,Monitor,Maintain engagement with personalised product recommendations.
+812,0.045,Low Churn Risk,High-Value Active Customers,4.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+813,0.33,Low Churn Risk,New and Developing Customers,33.0,Monitor,Continue onboarding and monitor engagement.
+814,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+815,0.16,Low Churn Risk,New and Developing Customers,16.0,Monitor,Continue onboarding and monitor engagement.
+816,0.05,Low Churn Risk,Frequent Customers Losing Interest,20.0,Monitor,Monitor engagement trend before offering discount.
+817,0.11,Low Churn Risk,High-Value Customers Losing Interest,36.0,Monitor,Monitor closely and maintain premium communication.
+818,0.04,Low Churn Risk,Frequent Customers Losing Interest,19.0,Monitor,Monitor engagement trend before offering discount.
+819,0.045,Low Churn Risk,Previously Valuable Customers,24.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+820,0.055,Low Churn Risk,High-Value Occasional Customers,10.5,Monitor,Maintain engagement with personalised product recommendations.
+821,0.12,Low Churn Risk,High-Value Occasional Customers,17.0,Monitor,Maintain engagement with personalised product recommendations.
+822,0.12,Low Churn Risk,Previously Valuable Customers,32.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+823,0.36,Low Churn Risk,High-Value Occasional Customers,41.0,Monitor,Maintain engagement with personalised product recommendations.
+824,0.075,Low Churn Risk,Inactive Customers,17.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+825,0.065,Low Churn Risk,Previously Valuable Customers,26.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+826,0.055,Low Churn Risk,Frequent Customers Losing Interest,20.5,Monitor,Monitor engagement trend before offering discount.
+827,0.9,High Churn Risk,New and Developing Customers,90.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+828,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+829,0.78,High Churn Risk,High-Value Customers Losing Interest,103.0,Immediate Action,Use premium retention offer and personal outreach immediately.
+830,0.1,Low Churn Risk,Previously Valuable Customers,30.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+831,0.045,Low Churn Risk,Previously Valuable Customers,24.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+832,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+833,0.195,Low Churn Risk,High-Value Customers Losing Interest,44.5,Monitor,Monitor closely and maintain premium communication.
+834,0.5,Medium Churn Risk,Frequent Customers Losing Interest,65.0,Immediate Action,Send reminder campaign and personalised offer.
+835,0.915,High Churn Risk,Inactive Customers,101.5,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+836,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+837,0.075,Low Churn Risk,High-Value Customers Losing Interest,32.5,Monitor,Monitor closely and maintain premium communication.
+838,0.525,Medium Churn Risk,High-Value Customers Losing Interest,77.5,Immediate Action,Send personalised high-value recovery offer.
+839,0.02,Low Churn Risk,Frequent Customers Losing Interest,17.0,Monitor,Monitor engagement trend before offering discount.
+840,0.335,Low Churn Risk,New and Developing Customers,33.5,Monitor,Continue onboarding and monitor engagement.
+841,0.22,Low Churn Risk,Previously Valuable Customers,42.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+842,0.185,Low Churn Risk,New and Developing Customers,18.5,Monitor,Continue onboarding and monitor engagement.
+843,0.23,Low Churn Risk,Frequent Customers Losing Interest,38.0,Monitor,Monitor engagement trend before offering discount.
+844,0.7,High Churn Risk,High-Value Customers Losing Interest,95.0,Immediate Action,Use premium retention offer and personal outreach immediately.
+845,0.13,Low Churn Risk,New and Developing Customers,13.0,Monitor,Continue onboarding and monitor engagement.
+846,0.155,Low Churn Risk,High-Value Occasional Customers,20.5,Monitor,Maintain engagement with personalised product recommendations.
+847,0.82,High Churn Risk,New and Developing Customers,82.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+848,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+849,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+850,0.03,Low Churn Risk,High-Value Customers Losing Interest,28.0,Monitor,Monitor closely and maintain premium communication.
+851,0.02,Low Churn Risk,High-Value Customers Losing Interest,27.0,Monitor,Monitor closely and maintain premium communication.
+852,0.235,Low Churn Risk,New and Developing Customers,23.5,Monitor,Continue onboarding and monitor engagement.
+853,0.115,Low Churn Risk,Previously Valuable Customers,31.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+854,0.075,Low Churn Risk,Frequent Customers Losing Interest,22.5,Monitor,Monitor engagement trend before offering discount.
+855,0.19,Low Churn Risk,New and Developing Customers,19.0,Monitor,Continue onboarding and monitor engagement.
+856,0.12,Low Churn Risk,Frequent Low-Value Customers,12.0,Monitor,Encourage higher basket value through product bundles.
+857,0.095,Low Churn Risk,New and Developing Customers,9.5,Monitor,Continue onboarding and monitor engagement.
+858,0.24,Low Churn Risk,Previously Valuable Customers,44.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+859,0.785,High Churn Risk,Inactive Customers,88.5,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+860,0.515,Medium Churn Risk,Frequent Customers Losing Interest,66.5,Immediate Action,Send reminder campaign and personalised offer.
+861,0.775,High Churn Risk,Inactive Customers,87.5,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+862,0.02,Low Churn Risk,High-Value Active Customers,2.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+863,0.06,Low Churn Risk,Frequent Low-Value Customers,6.0,Monitor,Encourage higher basket value through product bundles.
+864,0.76,High Churn Risk,New and Developing Customers,76.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+865,0.025,Low Churn Risk,High-Value Occasional Customers,7.5,Monitor,Maintain engagement with personalised product recommendations.
+866,0.21,Low Churn Risk,New and Developing Customers,21.0,Monitor,Continue onboarding and monitor engagement.
+867,0.11,Low Churn Risk,High-Value Customers Losing Interest,36.0,Monitor,Monitor closely and maintain premium communication.
+868,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+869,0.16,Low Churn Risk,High-Value Occasional Customers,21.0,Monitor,Maintain engagement with personalised product recommendations.
+870,0.025,Low Churn Risk,Inactive Customers,12.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+871,0.035,Low Churn Risk,Frequent Customers Losing Interest,18.5,Monitor,Monitor engagement trend before offering discount.
+872,0.3,Low Churn Risk,Frequent Customers Losing Interest,45.0,Monitor,Monitor engagement trend before offering discount.
+873,0.095,Low Churn Risk,New and Developing Customers,9.5,Monitor,Continue onboarding and monitor engagement.
+874,0.135,Low Churn Risk,High-Value Customers Losing Interest,38.5,Monitor,Monitor closely and maintain premium communication.
+875,0.66,Medium Churn Risk,Inactive Customers,76.0,Immediate Action,Send reminder campaign with small incentive.
+876,0.28,Low Churn Risk,New and Developing Customers,28.0,Monitor,Continue onboarding and monitor engagement.
+877,0.195,Low Churn Risk,High-Value Occasional Customers,24.5,Monitor,Maintain engagement with personalised product recommendations.
+878,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+879,0.145,Low Churn Risk,Inactive Customers,24.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+880,0.06,Low Churn Risk,High-Value Customers Losing Interest,31.0,Monitor,Monitor closely and maintain premium communication.
+881,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+882,0.065,Low Churn Risk,Previously Valuable Customers,26.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+883,0.58,Medium Churn Risk,Previously Valuable Customers,78.0,Immediate Action,Send re-engagement campaign with loyalty incentive.
+884,0.105,Low Churn Risk,High-Value Customers Losing Interest,35.5,Monitor,Monitor closely and maintain premium communication.
+885,0.13,Low Churn Risk,High-Value Occasional Customers,18.0,Monitor,Maintain engagement with personalised product recommendations.
+886,0.11,Low Churn Risk,High-Value Occasional Customers,16.0,Monitor,Maintain engagement with personalised product recommendations.
+887,0.21,Low Churn Risk,New and Developing Customers,21.0,Monitor,Continue onboarding and monitor engagement.
+888,0.0,Low Churn Risk,New and Developing Customers,0.0,Monitor,Continue onboarding and monitor engagement.
+889,0.045,Low Churn Risk,High-Value Occasional Customers,9.5,Monitor,Maintain engagement with personalised product recommendations.
+890,0.235,Low Churn Risk,New and Developing Customers,23.5,Monitor,Continue onboarding and monitor engagement.
+891,0.06,Low Churn Risk,New and Developing Customers,6.0,Monitor,Continue onboarding and monitor engagement.
+892,0.39,Low Churn Risk,Inactive Customers,49.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+893,0.0,Low Churn Risk,Inactive Customers,10.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+894,0.2,Low Churn Risk,New and Developing Customers,20.0,Monitor,Continue onboarding and monitor engagement.
+895,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+896,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+897,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+898,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+899,0.045,Low Churn Risk,Previously Valuable Customers,24.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+900,0.06,Low Churn Risk,New and Developing Customers,6.0,Monitor,Continue onboarding and monitor engagement.
+901,0.095,Low Churn Risk,High-Value Occasional Customers,14.5,Monitor,Maintain engagement with personalised product recommendations.
+902,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+903,0.82,High Churn Risk,New and Developing Customers,82.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+904,0.13,Low Churn Risk,Inactive Customers,23.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+905,0.615,Medium Churn Risk,Previously Valuable Customers,81.5,Immediate Action,Send re-engagement campaign with loyalty incentive.
+906,0.08,Low Churn Risk,High-Value Active Customers,8.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+907,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+908,0.125,Low Churn Risk,Previously Valuable Customers,32.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+909,0.69,Medium Churn Risk,High-Value Customers Losing Interest,94.0,Immediate Action,Send personalised high-value recovery offer.
+910,0.44,Medium Churn Risk,New and Developing Customers,44.0,Follow Up Soon,Send welcome offer and nurture campaign.
+911,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+912,0.07,Low Churn Risk,High-Value Occasional Customers,12.0,Monitor,Maintain engagement with personalised product recommendations.
+913,0.085,Low Churn Risk,New and Developing Customers,8.5,Monitor,Continue onboarding and monitor engagement.
+914,0.04,Low Churn Risk,New and Developing Customers,4.0,Monitor,Continue onboarding and monitor engagement.
+915,0.075,Low Churn Risk,High-Value Customers Losing Interest,32.5,Monitor,Monitor closely and maintain premium communication.
+916,0.03,Low Churn Risk,High-Value Occasional Customers,8.0,Monitor,Maintain engagement with personalised product recommendations.
+917,0.895,High Churn Risk,New and Developing Customers,89.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+918,0.58,Medium Churn Risk,Previously Valuable Customers,78.0,Immediate Action,Send re-engagement campaign with loyalty incentive.
+919,0.19,Low Churn Risk,High-Value Occasional Customers,24.0,Monitor,Maintain engagement with personalised product recommendations.
+920,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+921,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+922,0.01,Low Churn Risk,New and Developing Customers,1.0,Monitor,Continue onboarding and monitor engagement.
+923,0.46,Medium Churn Risk,Frequent Customers Losing Interest,61.0,Immediate Action,Send reminder campaign and personalised offer.
+924,0.63,Medium Churn Risk,New and Developing Customers,63.0,Follow Up Soon,Send welcome offer and nurture campaign.
+925,0.11,Low Churn Risk,Frequent Customers Losing Interest,26.0,Monitor,Monitor engagement trend before offering discount.
+926,0.68,Medium Churn Risk,New and Developing Customers,68.0,Follow Up Soon,Send welcome offer and nurture campaign.
+927,0.185,Low Churn Risk,New and Developing Customers,18.5,Monitor,Continue onboarding and monitor engagement.
+928,0.83,High Churn Risk,Inactive Customers,93.0,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+929,0.09,Low Churn Risk,High-Value Customers Losing Interest,34.0,Monitor,Monitor closely and maintain premium communication.
+930,0.085,Low Churn Risk,Previously Valuable Customers,28.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+931,0.16,Low Churn Risk,New and Developing Customers,16.0,Monitor,Continue onboarding and monitor engagement.
+932,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+933,0.945,High Churn Risk,Frequent Customers Losing Interest,109.5,Immediate Action,Send urgent re-engagement campaign with loyalty reward.
+934,0.555,Medium Churn Risk,New and Developing Customers,55.5,Follow Up Soon,Send welcome offer and nurture campaign.
+935,0.99,High Churn Risk,New and Developing Customers,99.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+936,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+937,0.225,Low Churn Risk,High-Value Occasional Customers,27.5,Monitor,Maintain engagement with personalised product recommendations.
+938,0.005,Low Churn Risk,High-Value Customers Losing Interest,25.5,Monitor,Monitor closely and maintain premium communication.
+939,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+940,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+941,0.14,Low Churn Risk,New and Developing Customers,14.0,Monitor,Continue onboarding and monitor engagement.
+942,0.18,Low Churn Risk,New and Developing Customers,18.0,Monitor,Continue onboarding and monitor engagement.
+943,0.585,Medium Churn Risk,New and Developing Customers,58.5,Follow Up Soon,Send welcome offer and nurture campaign.
+944,0.0,Low Churn Risk,New and Developing Customers,0.0,Monitor,Continue onboarding and monitor engagement.
+945,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+946,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+947,0.125,Low Churn Risk,New and Developing Customers,12.5,Monitor,Continue onboarding and monitor engagement.
+948,0.16,Low Churn Risk,High-Value Customers Losing Interest,41.0,Monitor,Monitor closely and maintain premium communication.
+949,0.055,Low Churn Risk,High-Value Occasional Customers,10.5,Monitor,Maintain engagement with personalised product recommendations.
+950,0.165,Low Churn Risk,High-Value Occasional Customers,21.5,Monitor,Maintain engagement with personalised product recommendations.
+951,0.185,Low Churn Risk,High-Value Customers Losing Interest,43.5,Monitor,Monitor closely and maintain premium communication.
+952,0.11,Low Churn Risk,Inactive Customers,21.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+953,0.08,Low Churn Risk,Previously Valuable Customers,28.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+954,0.0,Low Churn Risk,High-Value Occasional Customers,5.0,Monitor,Maintain engagement with personalised product recommendations.
+955,0.175,Low Churn Risk,High-Value Active Customers,17.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+956,0.59,Medium Churn Risk,High-Value Active Customers,59.0,Follow Up Soon,Send loyalty reward and monitor satisfaction.
+957,0.075,Low Churn Risk,New and Developing Customers,7.5,Monitor,Continue onboarding and monitor engagement.
+958,0.06,Low Churn Risk,New and Developing Customers,6.0,Monitor,Continue onboarding and monitor engagement.
+959,0.06,Low Churn Risk,Previously Valuable Customers,26.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+960,0.645,Medium Churn Risk,Frequent Customers Losing Interest,79.5,Immediate Action,Send reminder campaign and personalised offer.
+961,0.075,Low Churn Risk,High-Value Customers Losing Interest,32.5,Monitor,Monitor closely and maintain premium communication.
+962,0.84,High Churn Risk,Frequent Customers Losing Interest,99.0,Immediate Action,Send urgent re-engagement campaign with loyalty reward.
+963,0.06,Low Churn Risk,New and Developing Customers,6.0,Monitor,Continue onboarding and monitor engagement.
+964,0.58,Medium Churn Risk,Frequent Customers Losing Interest,73.0,Immediate Action,Send reminder campaign and personalised offer.
+965,0.135,Low Churn Risk,High-Value Customers Losing Interest,38.5,Monitor,Monitor closely and maintain premium communication.
+966,0.825,High Churn Risk,New and Developing Customers,82.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+967,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+968,0.02,Low Churn Risk,Previously Valuable Customers,22.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+969,0.08,Low Churn Risk,Frequent Low-Value Customers,8.0,Monitor,Encourage higher basket value through product bundles.
+970,0.115,Low Churn Risk,Frequent Customers Losing Interest,26.5,Monitor,Monitor engagement trend before offering discount.
+971,0.02,Low Churn Risk,Previously Valuable Customers,22.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+972,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+973,0.105,Low Churn Risk,New and Developing Customers,10.5,Monitor,Continue onboarding and monitor engagement.
+974,0.13,Low Churn Risk,Previously Valuable Customers,33.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+975,0.435,Medium Churn Risk,Frequent Low-Value Customers,43.5,Follow Up Soon,Use cross-sell and upsell campaigns.
+976,0.01,Low Churn Risk,Inactive Customers,11.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+977,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+978,0.025,Low Churn Risk,Previously Valuable Customers,22.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+979,0.285,Low Churn Risk,New and Developing Customers,28.5,Monitor,Continue onboarding and monitor engagement.
+980,0.085,Low Churn Risk,High-Value Occasional Customers,13.5,Monitor,Maintain engagement with personalised product recommendations.
+981,0.065,Low Churn Risk,Previously Valuable Customers,26.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+982,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+983,0.535,Medium Churn Risk,New and Developing Customers,53.5,Follow Up Soon,Send welcome offer and nurture campaign.
+984,0.19,Low Churn Risk,High-Value Occasional Customers,24.0,Monitor,Maintain engagement with personalised product recommendations.
+985,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+986,0.005,Low Churn Risk,High-Value Customers Losing Interest,25.5,Monitor,Monitor closely and maintain premium communication.
+987,0.105,Low Churn Risk,Inactive Customers,20.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+988,0.1,Low Churn Risk,New and Developing Customers,10.0,Monitor,Continue onboarding and monitor engagement.
+989,0.215,Low Churn Risk,Frequent Customers Losing Interest,36.5,Monitor,Monitor engagement trend before offering discount.
+990,0.01,Low Churn Risk,New and Developing Customers,1.0,Monitor,Continue onboarding and monitor engagement.
+991,0.57,Medium Churn Risk,High-Value Customers Losing Interest,82.0,Immediate Action,Send personalised high-value recovery offer.
+992,0.095,Low Churn Risk,New and Developing Customers,9.5,Monitor,Continue onboarding and monitor engagement.
+993,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+994,0.025,Low Churn Risk,Previously Valuable Customers,22.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+995,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+996,0.065,Low Churn Risk,High-Value Occasional Customers,11.5,Monitor,Maintain engagement with personalised product recommendations.
+997,0.06,Low Churn Risk,Inactive Customers,16.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+998,0.885,High Churn Risk,Inactive Customers,98.5,Immediate Action,Use low-cost win-back campaign or automated reactivation offer.
+999,0.015,Low Churn Risk,Previously Valuable Customers,21.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+1000,0.085,Low Churn Risk,High-Value Occasional Customers,13.5,Monitor,Maintain engagement with personalised product recommendations.
+1001,0.425,Medium Churn Risk,High-Value Occasional Customers,47.5,Follow Up Soon,Encourage more frequent purchases with targeted offers.
+1002,0.82,High Churn Risk,New and Developing Customers,82.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+1003,0.23,Low Churn Risk,New and Developing Customers,23.0,Monitor,Continue onboarding and monitor engagement.
+1004,0.205,Low Churn Risk,High-Value Occasional Customers,25.5,Monitor,Maintain engagement with personalised product recommendations.
+1005,0.06,Low Churn Risk,Frequent Customers Losing Interest,21.0,Monitor,Monitor engagement trend before offering discount.
+1006,0.01,Low Churn Risk,Frequent Customers Losing Interest,16.0,Monitor,Monitor engagement trend before offering discount.
+1007,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+1008,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+1009,0.0,Low Churn Risk,New and Developing Customers,0.0,Monitor,Continue onboarding and monitor engagement.
+1010,0.01,Low Churn Risk,High-Value Customers Losing Interest,26.0,Monitor,Monitor closely and maintain premium communication.
+1011,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+1012,0.08,Low Churn Risk,New and Developing Customers,8.0,Monitor,Continue onboarding and monitor engagement.
+1013,0.105,Low Churn Risk,High-Value Active Customers,10.5,Monitor,Maintain VIP relationship with regular loyalty benefits.
+1014,0.86,High Churn Risk,New and Developing Customers,86.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+1015,0.095,Low Churn Risk,High-Value Customers Losing Interest,34.5,Monitor,Monitor closely and maintain premium communication.
+1016,0.015,Low Churn Risk,New and Developing Customers,1.5,Monitor,Continue onboarding and monitor engagement.
+1017,0.08,Low Churn Risk,Inactive Customers,18.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1018,0.87,High Churn Risk,Frequent Customers Losing Interest,102.0,Immediate Action,Send urgent re-engagement campaign with loyalty reward.
+1019,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+1020,0.685,Medium Churn Risk,New and Developing Customers,68.5,Follow Up Soon,Send welcome offer and nurture campaign.
+1021,0.075,Low Churn Risk,Frequent Low-Value Customers,7.5,Monitor,Encourage higher basket value through product bundles.
+1022,0.06,Low Churn Risk,Inactive Customers,16.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1023,0.49,Medium Churn Risk,Frequent Customers Losing Interest,64.0,Immediate Action,Send reminder campaign and personalised offer.
+1024,0.12,Low Churn Risk,Inactive Customers,22.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1025,0.35,Low Churn Risk,Inactive Customers,45.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1026,0.075,Low Churn Risk,New and Developing Customers,7.5,Monitor,Continue onboarding and monitor engagement.
+1027,0.465,Medium Churn Risk,New and Developing Customers,46.5,Follow Up Soon,Send welcome offer and nurture campaign.
+1028,0.725,High Churn Risk,New and Developing Customers,72.5,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+1029,0.03,Low Churn Risk,High-Value Occasional Customers,8.0,Monitor,Maintain engagement with personalised product recommendations.
+1030,0.025,Low Churn Risk,Inactive Customers,12.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1031,0.035,Low Churn Risk,Previously Valuable Customers,23.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+1032,0.1,Low Churn Risk,Inactive Customers,20.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1033,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+1034,0.085,Low Churn Risk,Frequent Customers Losing Interest,23.5,Monitor,Monitor engagement trend before offering discount.
+1035,0.175,Low Churn Risk,Frequent Customers Losing Interest,32.5,Monitor,Monitor engagement trend before offering discount.
+1036,0.29,Low Churn Risk,High-Value Occasional Customers,34.0,Monitor,Maintain engagement with personalised product recommendations.
+1037,0.445,Medium Churn Risk,High-Value Active Customers,44.5,Follow Up Soon,Send loyalty reward and monitor satisfaction.
+1038,0.115,Low Churn Risk,Frequent Customers Losing Interest,26.5,Monitor,Monitor engagement trend before offering discount.
+1039,0.02,Low Churn Risk,High-Value Active Customers,2.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+1040,0.145,Low Churn Risk,New and Developing Customers,14.5,Monitor,Continue onboarding and monitor engagement.
+1041,0.175,Low Churn Risk,High-Value Occasional Customers,22.5,Monitor,Maintain engagement with personalised product recommendations.
+1042,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+1043,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+1044,0.64,Medium Churn Risk,New and Developing Customers,64.0,Follow Up Soon,Send welcome offer and nurture campaign.
+1045,0.055,Low Churn Risk,New and Developing Customers,5.5,Monitor,Continue onboarding and monitor engagement.
+1046,0.74,High Churn Risk,New and Developing Customers,74.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+1047,0.645,Medium Churn Risk,Inactive Customers,74.5,Immediate Action,Send reminder campaign with small incentive.
+1048,0.87,High Churn Risk,High-Value Occasional Customers,92.0,Immediate Action,Send premium personalised retention offer.
+1049,0.1,Low Churn Risk,Inactive Customers,20.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1050,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+1051,0.025,Low Churn Risk,High-Value Occasional Customers,7.5,Monitor,Maintain engagement with personalised product recommendations.
+1052,0.495,Medium Churn Risk,High-Value Customers Losing Interest,74.5,Immediate Action,Send personalised high-value recovery offer.
+1053,0.185,Low Churn Risk,New and Developing Customers,18.5,Monitor,Continue onboarding and monitor engagement.
+1054,0.0,Low Churn Risk,Frequent Customers Losing Interest,15.0,Monitor,Monitor engagement trend before offering discount.
+1055,0.6,Medium Churn Risk,New and Developing Customers,60.0,Follow Up Soon,Send welcome offer and nurture campaign.
+1056,0.085,Low Churn Risk,High-Value Customers Losing Interest,33.5,Monitor,Monitor closely and maintain premium communication.
+1057,0.045,Low Churn Risk,New and Developing Customers,4.5,Monitor,Continue onboarding and monitor engagement.
+1058,0.225,Low Churn Risk,High-Value Customers Losing Interest,47.5,Monitor,Monitor closely and maintain premium communication.
+1059,0.065,Low Churn Risk,Previously Valuable Customers,26.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+1060,0.05,Low Churn Risk,Previously Valuable Customers,25.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+1061,0.03,Low Churn Risk,Frequent Customers Losing Interest,18.0,Monitor,Monitor engagement trend before offering discount.
+1062,0.09,Low Churn Risk,Inactive Customers,19.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1063,0.02,Low Churn Risk,Inactive Customers,12.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1064,0.03,Low Churn Risk,Inactive Customers,13.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1065,0.06,Low Churn Risk,Inactive Customers,16.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1066,0.15,Low Churn Risk,New and Developing Customers,15.0,Monitor,Continue onboarding and monitor engagement.
+1067,0.05,Low Churn Risk,New and Developing Customers,5.0,Monitor,Continue onboarding and monitor engagement.
+1068,0.06,Low Churn Risk,Frequent Low-Value Customers,6.0,Monitor,Encourage higher basket value through product bundles.
+1069,0.84,High Churn Risk,High-Value Occasional Customers,89.0,Immediate Action,Send premium personalised retention offer.
+1070,0.05,Low Churn Risk,High-Value Occasional Customers,10.0,Monitor,Maintain engagement with personalised product recommendations.
+1071,0.05,Low Churn Risk,High-Value Occasional Customers,10.0,Monitor,Maintain engagement with personalised product recommendations.
+1072,0.02,Low Churn Risk,New and Developing Customers,2.0,Monitor,Continue onboarding and monitor engagement.
+1073,0.605,Medium Churn Risk,New and Developing Customers,60.5,Follow Up Soon,Send welcome offer and nurture campaign.
+1074,0.17,Low Churn Risk,New and Developing Customers,17.0,Monitor,Continue onboarding and monitor engagement.
+1075,0.135,Low Churn Risk,New and Developing Customers,13.5,Monitor,Continue onboarding and monitor engagement.
+1076,0.03,Low Churn Risk,New and Developing Customers,3.0,Monitor,Continue onboarding and monitor engagement.
+1077,0.11,Low Churn Risk,New and Developing Customers,11.0,Monitor,Continue onboarding and monitor engagement.
+1078,0.0,Low Churn Risk,High-Value Occasional Customers,5.0,Monitor,Maintain engagement with personalised product recommendations.
+1079,0.78,High Churn Risk,Frequent Customers Losing Interest,93.0,Immediate Action,Send urgent re-engagement campaign with loyalty reward.
+1080,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+1081,0.34,Low Churn Risk,Frequent Customers Losing Interest,49.0,Monitor,Monitor engagement trend before offering discount.
+1082,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+1083,0.045,Low Churn Risk,Frequent Customers Losing Interest,19.5,Monitor,Monitor engagement trend before offering discount.
+1084,0.22,Low Churn Risk,High-Value Occasional Customers,27.0,Monitor,Maintain engagement with personalised product recommendations.
+1085,0.015,Low Churn Risk,Inactive Customers,11.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1086,0.13,Low Churn Risk,High-Value Occasional Customers,18.0,Monitor,Maintain engagement with personalised product recommendations.
+1087,0.045,Low Churn Risk,Frequent Customers Losing Interest,19.5,Monitor,Monitor engagement trend before offering discount.
+1088,0.06,Low Churn Risk,New and Developing Customers,6.0,Monitor,Continue onboarding and monitor engagement.
+1089,0.02,Low Churn Risk,Previously Valuable Customers,22.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+1090,0.075,Low Churn Risk,Inactive Customers,17.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1091,0.065,Low Churn Risk,Previously Valuable Customers,26.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+1092,0.14,Low Churn Risk,Inactive Customers,24.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1093,0.125,Low Churn Risk,Previously Valuable Customers,32.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+1094,0.055,Low Churn Risk,New and Developing Customers,5.5,Monitor,Continue onboarding and monitor engagement.
+1095,0.34,Low Churn Risk,Frequent Customers Losing Interest,49.0,Monitor,Monitor engagement trend before offering discount.
+1096,0.03,Low Churn Risk,Previously Valuable Customers,23.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+1097,0.085,Low Churn Risk,New and Developing Customers,8.5,Monitor,Continue onboarding and monitor engagement.
+1098,0.05,Low Churn Risk,High-Value Active Customers,5.0,Monitor,Maintain VIP relationship with regular loyalty benefits.
+1099,0.07,Low Churn Risk,New and Developing Customers,7.0,Monitor,Continue onboarding and monitor engagement.
+1100,0.44,Medium Churn Risk,Previously Valuable Customers,64.0,Immediate Action,Send re-engagement campaign with loyalty incentive.
+1101,0.035,Low Churn Risk,New and Developing Customers,3.5,Monitor,Continue onboarding and monitor engagement.
+1102,0.265,Low Churn Risk,New and Developing Customers,26.5,Monitor,Continue onboarding and monitor engagement.
+1103,0.045,Low Churn Risk,High-Value Occasional Customers,9.5,Monitor,Maintain engagement with personalised product recommendations.
+1104,0.0,Low Churn Risk,High-Value Occasional Customers,5.0,Monitor,Maintain engagement with personalised product recommendations.
+1105,0.025,Low Churn Risk,New and Developing Customers,2.5,Monitor,Continue onboarding and monitor engagement.
+1106,0.085,Low Churn Risk,Inactive Customers,18.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1107,0.15,Low Churn Risk,High-Value Customers Losing Interest,40.0,Monitor,Monitor closely and maintain premium communication.
+1108,0.1,Low Churn Risk,Inactive Customers,20.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1109,0.345,Low Churn Risk,New and Developing Customers,34.5,Monitor,Continue onboarding and monitor engagement.
+1110,0.145,Low Churn Risk,High-Value Occasional Customers,19.5,Monitor,Maintain engagement with personalised product recommendations.
+1111,0.82,High Churn Risk,New and Developing Customers,82.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+1112,0.145,Low Churn Risk,High-Value Occasional Customers,19.5,Monitor,Maintain engagement with personalised product recommendations.
+1113,0.82,High Churn Risk,New and Developing Customers,82.0,Immediate Action,Provide onboarding support and first-purchase retention incentive.
+1114,0.055,Low Churn Risk,Inactive Customers,15.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1115,0.02,Low Churn Risk,Previously Valuable Customers,22.0,Monitor,Monitor behaviour and use light-touch reactivation message.
+1116,0.955,High Churn Risk,High-Value Occasional Customers,100.5,Immediate Action,Send premium personalised retention offer.
+1117,0.085,Low Churn Risk,Previously Valuable Customers,28.5,Monitor,Monitor behaviour and use light-touch reactivation message.
+1118,0.01,Low Churn Risk,High-Value Occasional Customers,6.0,Monitor,Maintain engagement with personalised product recommendations.
+1119,0.03,Low Churn Risk,Inactive Customers,13.0,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1120,0.005,Low Churn Risk,New and Developing Customers,0.5,Monitor,Continue onboarding and monitor engagement.
+1121,0.265,Low Churn Risk,New and Developing Customers,26.5,Monitor,Continue onboarding and monitor engagement.
+1122,0.035,Low Churn Risk,High-Value Occasional Customers,8.5,Monitor,Maintain engagement with personalised product recommendations.
+1123,0.085,Low Churn Risk,Inactive Customers,18.5,Monitor,No immediate costly action; monitor or include in low-cost automated campaign.
+1124,0.065,Low Churn Risk,New and Developing Customers,6.5,Monitor,Continue onboarding and monitor engagement.
+1125,0.085,Low Churn Risk,New and Developing Customers,8.5,Monitor,Continue onboarding and monitor engagement.
