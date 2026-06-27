@@ -227,8 +227,11 @@ if page == "Executive Dashboard":
                 "Priority_Display",
                 recommendation_col
             ]
-        ],
-        use_container_width=True
+        ].rename(columns={
+            "Customer_Index": "Customer_ID"
+        }),
+        use_container_width=True,
+        hide_index=True
     )
 
 # ============================================================
@@ -291,7 +294,7 @@ elif page == "Customer Segments":
     })
 
     st.subheader("Segment Meaning and Business Action")
-    st.dataframe(segment_summary, use_container_width=True)
+    st.dataframe(segment_summary, use_container_width=True, hide_index=True)
 
     selected_segment = st.selectbox(
         "Select Customer Behaviour Segment",
@@ -315,8 +318,11 @@ elif page == "Customer Segments":
                 "Priority_Display",
                 recommendation_col
             ]
-        ],
-        use_container_width=True
+        ].rename(columns={
+            "Customer_Index": "Customer_ID"
+        }),
+        use_container_width=True,
+        hide_index=True
     )
 
 # ============================================================
@@ -375,8 +381,11 @@ elif page == "Retention Priority Centre":
                 "Priority_Display",
                 recommendation_col
             ]
-        ],
-        use_container_width=True
+        ].rename(columns={
+            "Customer_Index": "Customer_ID"
+        }),
+        use_container_width=True,
+        hide_index=True
     )
 
     st.download_button(
@@ -453,7 +462,8 @@ elif page == "Customer Profile":
                         "Counterfactual_Manager_Action"
                     ]
                 ],
-                use_container_width=True
+                use_container_width=True,
+                hide_index=True
             )
         else:
             st.info("No DiCE counterfactual action is available for this customer.")
@@ -521,8 +531,11 @@ elif page == "Counterfactual Actions":
         ]
 
         st.dataframe(
-            customer_cf[display_cols],
-            use_container_width=True
+        customer_cf[display_cols].rename(columns={
+            "Customer_Index": "Customer ID"
+        }),
+        use_container_width=True,
+        hide_index=True
         )
 
         st.subheader("Manager-Friendly Counterfactual Actions")
@@ -578,7 +591,7 @@ elif page == "Churn Drivers":
     })
 
     st.subheader("Top Business Drivers of Customer Churn")
-    st.dataframe(shap_drivers, use_container_width=True)
+    st.dataframe(shap_drivers, use_container_width=True, hide_index=True)
 
     st.subheader("How to Interpret These Drivers")
 
