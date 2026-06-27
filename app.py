@@ -42,6 +42,10 @@ if data_mode == "Use default project data":
     recommendation_df, rfm_df, dice_df = load_default_data()
 
 else:
+    st.sidebar.info(
+        "Prototype upload mode: please upload processed CSV files only. Raw Excel upload is not supported in this version."
+    )
+    
     uploaded_recommendation = st.sidebar.file_uploader(
         "Upload final_recommendation_engine_output.csv",
         type=["csv"]
@@ -128,7 +132,6 @@ page = st.sidebar.radio(
         "Customer Segments",
         "Retention Priority Centre",
         "Customer Profile",
-        "Action Recommendations",
         "Counterfactual Actions",
         "Churn Drivers"
     ]
@@ -146,7 +149,7 @@ if page == "Executive Dashboard":
     high_risk = len(recommendation_df[recommendation_df[risk_col] == "High Churn Risk"])
     avg_churn = recommendation_df["Churn_Probability"].mean()
 
-    retention_priority_customers = len(
+    Customers_in_Retention_Target_Segments = len(
         recommendation_df[
             recommendation_df[segment_col].isin(priority_segments)
         ]
@@ -160,7 +163,7 @@ if page == "Executive Dashboard":
 
     col1.metric("Total Customers", total_customers)
     col2.metric("High Churn Risk Customers", high_risk)
-    col3.metric("Retention Priority Segments", retention_priority_customers)
+    col3.metric("Customers in Retention Target Segments", Customers_in_Retention_Target_Segments)
     col4.metric("Average Churn Probability", f"{avg_churn:.2%}")
 
     st.info(
@@ -391,9 +394,14 @@ elif page == "Customer Profile":
 
     st.header("Customer Profile")
 
+    customer_options = recommendation_df.sort_values(
+        "Priority_Score",
+        ascending=False
+    )["Customer_Index"].tolist()
+
     customer_id = st.selectbox(
         "Select Customer",
-        recommendation_df["Customer_Index"]
+        customer_options
     )
 
     customer = recommendation_df[
@@ -452,77 +460,7 @@ elif page == "Customer Profile":
             st.info("No DiCE counterfactual action is available for this customer.")
 
 # ============================================================
-# PAGE 5: ACTION RECOMMENDATIONS
-# ============================================================
-
-elif page == "Action Recommendations":
-
-    st.header("Action Recommendations")
-
-    st.success(
-        "Recommendations are generated using churn probability, customer behaviour segment, and business-rule logic."
-    )
-
-    segment_strategy = pd.DataFrame({
-        "Customer Behaviour Segment": [
-            "High-Value Active Customers",
-            "Frequent Low-Value Customers",
-            "High-Value Occasional Customers",
-            "New and Developing Customers",
-            "Previously Valuable Customers",
-            "Frequent Customers Losing Interest",
-            "High-Value Customers Losing Interest",
-            "Inactive Customers"
-        ],
-        "Recommended Strategy": [
-            "Reward with VIP loyalty benefits and exclusive offers.",
-            "Use bundle offers, cross-sell campaigns, and upsell recommendations.",
-            "Send personalised premium offers to increase purchase frequency.",
-            "Provide onboarding support, welcome incentives, and nurture campaigns.",
-            "Run priority win-back campaign with personalised discount.",
-            "Send re-engagement campaign with loyalty incentives.",
-            "Use premium retention offer and personal outreach.",
-            "Use low-cost win-back campaign or automated reactivation offer."
-        ]
-    })
-
-    st.subheader("Segment-Based Retention Strategy")
-    st.dataframe(segment_strategy, use_container_width=True)
-
-    priority_counts = recommendation_df["Priority_Label"].value_counts().reset_index()
-    priority_counts.columns = ["Priority Label", "Count"]
-
-    fig_priority = px.bar(
-        priority_counts,
-        x="Priority Label",
-        y="Count",
-        title="Retention Priority Distribution"
-    )
-    st.plotly_chart(fig_priority, use_container_width=True)
-
-    priority_df = recommendation_df[
-        recommendation_df[segment_col].isin(priority_segments)
-    ].sort_values("Priority_Score", ascending=False)
-
-    st.subheader("Priority Customer Recommendations")
-
-    st.dataframe(
-        priority_df[
-            [
-                "Customer_Index",
-                segment_col,
-                "Risk_Display",
-                "Churn_Probability",
-                "Priority_Score",
-                "Priority_Display",
-                recommendation_col
-            ]
-        ],
-        use_container_width=True
-    )
-
-# ============================================================
-# PAGE 6: COUNTERFACTUAL ACTIONS
+# PAGE 5: COUNTERFACTUAL ACTIONS
 # ============================================================
 
 elif page == "Counterfactual Actions":
@@ -546,20 +484,25 @@ elif page == "Counterfactual Actions":
 
         col1, col2, col3 = st.columns(3)
 
-        col1.metric("Counterfactual Rows", len(dice_df))
-        col2.metric("Unique Customers", dice_df["Customer_Index"].nunique())
-        col3.metric("Successful Outputs", len(dice_df[dice_df["Status"] == "Success"]))
+        col1.metric("Total Counterfactual Recommendations", len(dice_df))
+        col2.metric("Customers with Counterfactual Plan", dice_df["Customer_Index"].nunique())
+        col3.metric("Behaviour Factors Identified", dice_df["Feature_To_Change"].nunique())
 
-        status_counts = dice_df["Status"].value_counts().reset_index()
-        status_counts.columns = ["Status", "Count"]
+        feature_counts = dice_df["Feature_To_Change"].value_counts().reset_index()
+        feature_counts.columns = ["Behaviour Factor", "Count"]
 
-        fig_status = px.bar(
-            status_counts,
-            x="Status",
-            y="Count",
-            title="DiCE Counterfactual Status"
+        fig_features = px.bar(
+            feature_counts,
+            x="Count",
+            y="Behaviour Factor",
+            orientation="h",
+            title="Most Common Behaviour Factors Suggested by Counterfactual Analysis",
+            category_orders={
+                "Behaviour Factor": feature_counts["Behaviour Factor"].tolist()
+    }
         )
-        st.plotly_chart(fig_status, use_container_width=True)
+
+        st.plotly_chart(fig_features, use_container_width=True)
 
         selected_customer = st.selectbox(
             "Select Customer with Counterfactual Output",
@@ -576,7 +519,6 @@ elif page == "Counterfactual Actions":
             "Target_Probability",
             "Feature_To_Change",
             "Counterfactual_Manager_Action",
-            "Status"
         ]
 
         st.dataframe(
@@ -597,7 +539,7 @@ elif page == "Counterfactual Actions":
         )
 
 # ============================================================
-# PAGE 7: CHURN DRIVERS
+# PAGE 6: CHURN DRIVERS
 # ============================================================
 
 elif page == "Churn Drivers":
@@ -636,14 +578,27 @@ elif page == "Churn Drivers":
         ]
     })
 
-    st.subheader("Top Churn Drivers")
+    st.subheader("Top Business Drivers of Customer Churn")
     st.dataframe(shap_drivers, use_container_width=True)
 
-    if os.path.exists("shap_feature_importance.png"):
-        st.subheader("SHAP Feature Importance")
-        st.image("shap_feature_importance.png", use_container_width=True)
-    else:
-        st.info(
-            "Optional: save your SHAP feature importance chart as 'shap_feature_importance.png' "
-            "and place it in the same folder as app.py to display it here."
-        )
+    st.subheader("How to Interpret These Drivers")
+
+    st.info("""
+    The drivers shown above are ranked by their influence on the Random Forest model's churn prediction.
+
+    • A higher-ranked driver has a stronger impact on predicting customer churn.
+
+    • These drivers explain the model's behaviour across all customers rather than for an individual customer.
+
+    • They should be used to guide retention strategy and operational improvements, not as direct causes of churn.
+    """)
+
+
+    st.subheader("Key Management Insight")
+
+    st.success("""
+    Customer churn is influenced by multiple behavioural factors rather than a single issue.
+    Improving customer onboarding, resolving complaints promptly, encouraging repeat purchases,
+    and increasing customer engagement are expected to reduce churn risk across the customer base.
+    """)
+
