@@ -450,8 +450,7 @@ elif page == "Customer Profile":
                         "Original_Probability",
                         "Target_Probability",
                         "Feature_To_Change",
-                        "Counterfactual_Manager_Action",
-                        "Status"
+                        "Counterfactual_Manager_Action"
                     ]
                 ],
                 use_container_width=True
