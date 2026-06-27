@@ -387,12 +387,21 @@ elif page == "Retention Priority Centre":
         use_container_width=True,
         hide_index=True
     )
+    
+    download_df = filtered_df.rename(columns={
+    "Customer_Index": "Customer ID",
+    "Customer_Behaviour_Segment": "Customer Behaviour Segment",
+    "Churn_Probability": "Churn Probability",
+    "Priority_Score": "Priority Score",
+    "Priority_Label": "Retention Priority",
+    "Final_Manager_Action": "Recommended Action"
+    })
 
     st.download_button(
-        "Download Retention Target List",
-        filtered_df.to_csv(index=False),
-        "retention_target_list.csv",
-        "text/csv"
+    "Download Retention Target List",
+    download_df.to_csv(index=False),
+    "retention_target_list.csv",
+    "text/csv"
     )
 
 # ============================================================
@@ -409,7 +418,7 @@ elif page == "Customer Profile":
     )["Customer_Index"].tolist()
 
     customer_id = st.selectbox(
-        "Select Customer",
+        "Select Customer ID",
         customer_options
     )
 
@@ -419,7 +428,7 @@ elif page == "Customer Profile":
 
     col1, col2, col3 = st.columns(3)
 
-    col1.metric("Customer Index", customer["Customer_Index"])
+    col1.metric("Customer ID", customer["Customer_Index"])
     col2.metric("Churn Probability", f"{customer['Churn_Probability']:.2%}")
     col3.metric("Priority Score", customer["Priority_Score"])
 
