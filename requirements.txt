@@ -1,4 +1,10 @@
 streamlit
 pandas
-plotly
 numpy
+plotly
+scikit-learn
+imbalanced-learn
+shap
+dice-ml
+matplotlib
+joblib
