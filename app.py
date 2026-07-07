@@ -444,6 +444,21 @@ elif page == "Customer Profile":
     else:
         st.success("Low Churn Risk: this customer is currently stable.")
 
+    st.subheader("Why the Model Predicted This Customer's Risk")
+
+    shap_reason_cols = [
+        "Local_SHAP_Reason_1",
+        "Local_SHAP_Reason_2",
+        "Local_SHAP_Reason_3"
+    ]
+
+    if all(col in recommendation_df.columns for col in shap_reason_cols):
+        for col in shap_reason_cols:
+            if pd.notna(customer[col]):
+                st.markdown(f"✅ {customer[col]}")
+    else:
+        st.info("Local SHAP explanations are not available in the uploaded file.")
+
     st.subheader("Retention Priority")
 
     if customer["Priority_Label"] == "Immediate Action":

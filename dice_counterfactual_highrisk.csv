@@ -1,162 +1,163 @@
 Customer_Index,Original_Probability,Target_Probability,Feature_To_Change,Current_Value_Scaled,Suggested_Value_Scaled,Status,Counterfactual_Manager_Action
-11,0.785,0.16,Tenure,-1.213,5.787,Success,Review customer behaviour and apply suitable retention action.
-11,0.785,0.16,DaySinceLastOrder,1.278,11.655,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-41,0.735,0.17,Tenure,-1.094,1.238,Success,Review customer behaviour and apply suitable retention action.
-41,0.735,0.17,OrderCount,-0.328,3.166,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-53,0.8,0.16,Tenure,-1.213,5.275,Success,Review customer behaviour and apply suitable retention action.
-53,0.8,0.16,CashbackAmount,-0.402,1.132,Success,Offer cashback or loyalty reward to encourage retention.
-59,0.85,0.345,Tenure,-1.213,2.645,Success,Review customer behaviour and apply suitable retention action.
-79,0.76,0.19,Tenure,-1.213,3.386,Success,Review customer behaviour and apply suitable retention action.
-81,0.745,0.235,Tenure,-1.213,1.967,Success,Review customer behaviour and apply suitable retention action.
-85,0.915,0.315,Tenure,-0.135,2.631,Success,Review customer behaviour and apply suitable retention action.
-85,0.915,0.315,CashbackAmount,-1.151,2.297,Success,Offer cashback or loyalty reward to encourage retention.
-86,0.9,0.285,Tenure,-1.094,2.342,Success,Review customer behaviour and apply suitable retention action.
-88,0.925,0.415,Tenure,-1.094,-0.278,Success,Review customer behaviour and apply suitable retention action.
-88,0.925,0.415,SatisfactionScore,-0.049,0.137,Success,Improve satisfaction through service recovery or personalised support.
-92,0.795,0.445,Tenure,-1.213,-0.148,Success,Review customer behaviour and apply suitable retention action.
-92,0.795,0.445,SatisfactionScore,-1.494,-0.332,Success,Improve satisfaction through service recovery or personalised support.
-93,0.89,0.47,DaySinceLastOrder,-1.254,2.243,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-93,0.89,0.47,CashbackAmount,-1.198,1.096,Success,Offer cashback or loyalty reward to encourage retention.
-113,0.825,0.45,Tenure,1.062,5.607,Success,Review customer behaviour and apply suitable retention action.
-113,0.825,0.45,Complain,1.603,-0.601,Success,Resolve the complaint and follow up with the customer.
-128,0.94,0.475,Tenure,-0.135,2.483,Success,Review customer behaviour and apply suitable retention action.
-128,0.94,0.475,DaySinceLastOrder,-1.254,4.676,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-135,0.73,0.435,CashbackAmount,-1.356,1.875,Success,Offer cashback or loyalty reward to encourage retention.
-158,0.775,0.345,Tenure,-0.974,5.287,Success,Review customer behaviour and apply suitable retention action.
-158,0.775,0.345,OrderCount,2.868,0.887,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-160,0.825,0.5,DaySinceLastOrder,-0.972,8.592,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-160,0.825,0.5,OrderCount,-0.328,-0.017,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-166,0.82,0.425,Tenure,-0.615,4.804,Success,Review customer behaviour and apply suitable retention action.
-166,0.82,0.425,SatisfactionScore,1.396,-0.924,Success,Improve satisfaction through service recovery or personalised support.
-169,0.88,0.475,Tenure,-0.734,2.448,Success,Review customer behaviour and apply suitable retention action.
-169,0.88,0.475,OrderCount,-0.328,2.925,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-178,0.97,0.405,Tenure,-1.094,1.34,Success,Review customer behaviour and apply suitable retention action.
-178,0.97,0.405,OrderCount,-0.328,2.578,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-179,0.7,0.37,Tenure,-1.213,4.462,Success,Review customer behaviour and apply suitable retention action.
-181,0.84,0.275,Tenure,-1.213,4.621,Success,Review customer behaviour and apply suitable retention action.
-181,0.84,0.275,DaySinceLastOrder,0.716,-0.59,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-185,0.905,0.37,Tenure,-1.213,5.08,Success,Review customer behaviour and apply suitable retention action.
-185,0.905,0.37,DaySinceLastOrder,-1.254,0.931,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-193,0.98,0.465,Tenure,-0.135,1.645,Success,Review customer behaviour and apply suitable retention action.
-193,0.98,0.465,DaySinceLastOrder,-1.254,8.339,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-208,0.7,0.12,Tenure,-1.094,2.122,Success,Review customer behaviour and apply suitable retention action.
-208,0.7,0.12,DaySinceLastOrder,-0.972,9.932,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-216,0.96,0.345,Tenure,-1.094,0.765,Success,Review customer behaviour and apply suitable retention action.
-216,0.96,0.345,SatisfactionScore,1.396,-0.607,Success,Improve satisfaction through service recovery or personalised support.
-234,0.855,0.36,Tenure,-0.135,4.743,Success,Review customer behaviour and apply suitable retention action.
-234,0.855,0.36,CashbackAmount,-1.111,2.47,Success,Offer cashback or loyalty reward to encourage retention.
-236,0.81,0.235,Tenure,-1.094,-0.025,Success,Review customer behaviour and apply suitable retention action.
-256,0.78,0.29,Tenure,-1.213,3.43,Success,Review customer behaviour and apply suitable retention action.
-256,0.78,0.29,OrderCount,1.448,3.965,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-287,0.715,0.36,Tenure,-1.094,-0.214,Success,Review customer behaviour and apply suitable retention action.
-287,0.715,0.36,SatisfactionScore,1.396,-1.385,Success,Improve satisfaction through service recovery or personalised support.
-311,0.825,0.17,Tenure,-1.094,2.525,Success,Review customer behaviour and apply suitable retention action.
-311,0.825,0.17,OrderCount,-0.328,0.423,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-334,0.725,0.28,Tenure,-1.213,0.707,Success,Review customer behaviour and apply suitable retention action.
-334,0.725,0.28,CouponUsed,0.152,0.811,Success,Provide a targeted coupon or promotional incentive.
-371,0.72,0.47,CashbackAmount,-1.109,2.23,Success,Offer cashback or loyalty reward to encourage retention.
-391,0.81,0.265,Tenure,-1.213,3.824,Success,Review customer behaviour and apply suitable retention action.
-391,0.81,0.265,DaySinceLastOrder,-0.691,5.946,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-404,0.98,0.435,Tenure,-1.094,2.117,Success,Review customer behaviour and apply suitable retention action.
-404,0.98,0.435,SatisfactionScore,-0.049,0.694,Success,Improve satisfaction through service recovery or personalised support.
-418,0.88,0.285,Tenure,-1.213,4.388,Success,Review customer behaviour and apply suitable retention action.
-418,0.88,0.285,CouponUsed,-0.387,1.032,Success,Provide a targeted coupon or promotional incentive.
-419,0.725,0.085,Tenure,-1.094,2.04,Success,Review customer behaviour and apply suitable retention action.
-419,0.725,0.085,OrderCount,1.448,0.902,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-427,0.905,0.46,Tenure,-1.213,4.947,Success,Review customer behaviour and apply suitable retention action.
-427,0.905,0.46,CashbackAmount,-0.93,-1.052,Success,Offer cashback or loyalty reward to encourage retention.
-443,0.95,0.39,Tenure,-1.094,0.003,Success,Review customer behaviour and apply suitable retention action.
-445,0.855,0.48,Tenure,-0.375,1.311,Success,Review customer behaviour and apply suitable retention action.
-481,0.91,0.39,Tenure,-1.213,3.241,Success,Review customer behaviour and apply suitable retention action.
-481,0.91,0.39,CashbackAmount,-1.089,-1.318,Success,Offer cashback or loyalty reward to encourage retention.
-487,0.975,0.47,Tenure,-1.213,4.386,Success,Review customer behaviour and apply suitable retention action.
-487,0.975,0.47,SatisfactionScore,-0.771,-0.293,Success,Improve satisfaction through service recovery or personalised support.
-497,0.875,0.235,Tenure,-1.094,3.968,Success,Review customer behaviour and apply suitable retention action.
-497,0.875,0.235,CouponUsed,0.691,-0.893,Success,Provide a targeted coupon or promotional incentive.
-519,0.96,0.455,Tenure,-1.094,3.211,Success,Review customer behaviour and apply suitable retention action.
-547,0.935,0.295,Tenure,-0.135,2.854,Success,Review customer behaviour and apply suitable retention action.
-547,0.935,0.295,CashbackAmount,-1.288,2.34,Success,Offer cashback or loyalty reward to encourage retention.
-560,0.865,0.38,Tenure,-1.094,5.96,Success,Review customer behaviour and apply suitable retention action.
-560,0.865,0.38,Complain,1.603,1.232,Success,Resolve the complaint and follow up with the customer.
-574,0.845,0.385,Tenure,-0.375,4.96,Success,Review customer behaviour and apply suitable retention action.
-586,0.79,0.485,Tenure,-1.094,-0.601,Success,Review customer behaviour and apply suitable retention action.
-586,0.79,0.485,CashbackAmount,1.705,0.911,Success,Offer cashback or loyalty reward to encourage retention.
-594,0.81,0.435,Tenure,-0.734,3.035,Success,Review customer behaviour and apply suitable retention action.
-608,0.735,0.36,Tenure,-1.213,3.184,Success,Review customer behaviour and apply suitable retention action.
-608,0.735,0.36,OrderCount,-0.684,3.373,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-619,0.88,0.31,Tenure,-1.094,0.008,Success,Review customer behaviour and apply suitable retention action.
-632,0.74,0.375,Tenure,-1.094,1.319,Success,Review customer behaviour and apply suitable retention action.
-632,0.74,0.375,CashbackAmount,-0.497,-3.025,Success,Offer cashback or loyalty reward to encourage retention.
-645,0.895,0.425,Tenure,-1.213,5.393,Success,Review customer behaviour and apply suitable retention action.
-651,0.83,0.46,Tenure,-1.094,-0.265,Success,Review customer behaviour and apply suitable retention action.
-651,0.83,0.46,SatisfactionScore,1.396,-0.12,Success,Improve satisfaction through service recovery or personalised support.
-656,0.725,0.48,SatisfactionScore,1.396,-1.141,Success,Improve satisfaction through service recovery or personalised support.
-660,0.845,0.495,Tenure,-1.094,1.919,Success,Review customer behaviour and apply suitable retention action.
-666,0.795,0.205,Tenure,-1.213,1.383,Success,Review customer behaviour and apply suitable retention action.
-666,0.795,0.205,DaySinceLastOrder,2.685,2.376,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-686,0.875,0.465,Tenure,-1.213,0.464,Success,Review customer behaviour and apply suitable retention action.
-686,0.875,0.465,SatisfactionScore,1.396,-0.33,Success,Improve satisfaction through service recovery or personalised support.
-688,0.785,0.23,Tenure,-1.094,3.113,Success,Review customer behaviour and apply suitable retention action.
-690,0.835,0.43,Tenure,-1.213,2.658,Success,Review customer behaviour and apply suitable retention action.
-700,0.835,0.165,Tenure,-1.094,5.344,Success,Review customer behaviour and apply suitable retention action.
-700,0.835,0.165,DaySinceLastOrder,1.278,8.523,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-712,0.83,0.155,Tenure,-1.213,4.116,Success,Review customer behaviour and apply suitable retention action.
-715,0.82,0.175,Tenure,-1.213,0.847,Success,Review customer behaviour and apply suitable retention action.
-735,0.805,0.17,Tenure,-1.094,3.989,Success,Review customer behaviour and apply suitable retention action.
-751,0.875,0.405,Tenure,-0.016,4.124,Success,Review customer behaviour and apply suitable retention action.
-751,0.875,0.405,CashbackAmount,1.059,-3.541,Success,Offer cashback or loyalty reward to encourage retention.
-766,0.8,0.235,Tenure,-1.094,-0.425,Success,Review customer behaviour and apply suitable retention action.
-766,0.8,0.235,SatisfactionScore,1.396,-0.024,Success,Improve satisfaction through service recovery or personalised support.
-775,0.725,0.285,Tenure,-1.094,0.745,Success,Review customer behaviour and apply suitable retention action.
-775,0.725,0.285,SatisfactionScore,1.396,-0.434,Success,Improve satisfaction through service recovery or personalised support.
-788,0.855,0.21,Tenure,-1.094,4.71,Success,Review customer behaviour and apply suitable retention action.
-800,0.755,0.23,Tenure,-1.213,1.974,Success,Review customer behaviour and apply suitable retention action.
-800,0.755,0.23,DaySinceLastOrder,0.716,-0.137,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-805,0.77,0.48,Tenure,-0.135,4.681,Success,Review customer behaviour and apply suitable retention action.
-805,0.77,0.48,CouponUsed,-0.387,5.711,Success,Provide a targeted coupon or promotional incentive.
-827,0.9,0.435,Tenure,-1.094,0.893,Success,Review customer behaviour and apply suitable retention action.
-829,0.78,0.265,Tenure,-1.213,0.04,Success,Review customer behaviour and apply suitable retention action.
-829,0.78,0.265,CashbackAmount,-0.684,-1.026,Success,Offer cashback or loyalty reward to encourage retention.
-835,0.915,0.4,Tenure,-1.213,2.217,Success,Review customer behaviour and apply suitable retention action.
-835,0.915,0.4,SatisfactionScore,1.396,-0.908,Success,Improve satisfaction through service recovery or personalised support.
-844,0.7,0.315,Tenure,-1.213,1.822,Success,Review customer behaviour and apply suitable retention action.
-844,0.7,0.315,Complain,-0.624,-0.58,Success,Resolve the complaint and follow up with the customer.
-847,0.82,0.205,Tenure,-1.094,2.241,Success,Review customer behaviour and apply suitable retention action.
-847,0.82,0.205,DaySinceLastOrder,-0.972,-0.072,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-859,0.785,0.22,Tenure,-0.974,5.239,Success,Review customer behaviour and apply suitable retention action.
-859,0.785,0.22,CashbackAmount,-1.087,1.433,Success,Offer cashback or loyalty reward to encourage retention.
-861,0.775,0.4,Tenure,-0.734,3.74,Success,Review customer behaviour and apply suitable retention action.
-864,0.76,0.23,Tenure,-1.213,4.732,Success,Review customer behaviour and apply suitable retention action.
-903,0.82,0.35,Tenure,-1.094,2.985,Success,Review customer behaviour and apply suitable retention action.
-903,0.82,0.35,CashbackAmount,1.036,-3.1,Success,Offer cashback or loyalty reward to encourage retention.
-917,0.895,0.425,Tenure,-1.094,5.953,Success,Review customer behaviour and apply suitable retention action.
-917,0.895,0.425,Complain,1.603,0.642,Success,Resolve the complaint and follow up with the customer.
-928,0.83,0.435,Tenure,-1.094,0.309,Success,Review customer behaviour and apply suitable retention action.
-928,0.83,0.435,OrderCount,1.803,3.355,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-933,0.945,0.33,Tenure,-1.213,2.42,Success,Review customer behaviour and apply suitable retention action.
-935,0.99,0.335,Tenure,-1.094,1.487,Success,Review customer behaviour and apply suitable retention action.
-935,0.99,0.335,DaySinceLastOrder,-0.972,7.196,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-962,0.84,0.315,Tenure,-1.213,3.611,Success,Review customer behaviour and apply suitable retention action.
-966,0.825,0.165,Tenure,-1.094,5.942,Success,Review customer behaviour and apply suitable retention action.
-998,0.885,0.495,Tenure,-0.135,3.491,Success,Review customer behaviour and apply suitable retention action.
-998,0.885,0.495,SatisfactionScore,0.674,-0.402,Success,Improve satisfaction through service recovery or personalised support.
-1002,0.82,0.3,Tenure,-1.094,2.511,Success,Review customer behaviour and apply suitable retention action.
-1002,0.82,0.3,CouponUsed,0.152,1.459,Success,Provide a targeted coupon or promotional incentive.
-1014,0.86,0.24,Tenure,-1.213,4.892,Success,Review customer behaviour and apply suitable retention action.
-1014,0.86,0.24,DaySinceLastOrder,0.434,4.798,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
-1018,0.87,0.295,Tenure,-1.094,4.03,Success,Review customer behaviour and apply suitable retention action.
-1018,0.87,0.295,SatisfactionScore,1.396,-1.401,Success,Improve satisfaction through service recovery or personalised support.
-1028,0.725,0.305,Tenure,-1.094,1.759,Success,Review customer behaviour and apply suitable retention action.
-1028,0.725,0.305,CouponUsed,0.691,7.664,Success,Provide a targeted coupon or promotional incentive.
-1046,0.74,0.2,Tenure,-1.094,2.117,Success,Review customer behaviour and apply suitable retention action.
-1046,0.74,0.2,CashbackAmount,-0.358,-3.093,Success,Offer cashback or loyalty reward to encourage retention.
-1048,0.87,0.44,Tenure,-1.094,1.806,Success,Review customer behaviour and apply suitable retention action.
-1069,0.84,0.33,Tenure,-1.213,0.546,Success,Review customer behaviour and apply suitable retention action.
-1069,0.84,0.33,CashbackAmount,0.523,-1.489,Success,Offer cashback or loyalty reward to encourage retention.
-1079,0.78,0.26,Tenure,-1.094,1.679,Success,Review customer behaviour and apply suitable retention action.
-1079,0.78,0.26,OrderCount,-0.328,0.122,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
-1111,0.82,0.29,Tenure,-1.094,4.683,Success,Review customer behaviour and apply suitable retention action.
-1113,0.82,0.29,Tenure,-1.213,3.572,Success,Review customer behaviour and apply suitable retention action.
-1113,0.82,0.29,SatisfactionScore,-0.049,0.957,Success,Improve satisfaction through service recovery or personalised support.
-1116,0.955,0.335,Tenure,-1.213,5.103,Success,Review customer behaviour and apply suitable retention action.
-1116,0.955,0.335,CouponUsed,-0.927,2.637,Success,Provide a targeted coupon or promotional incentive.
+11,0.785,0.185,Tenure,-1.213,1.244,Success,Review customer behaviour and apply suitable retention action.
+41,0.735,0.155,Tenure,-1.094,5.683,Success,Review customer behaviour and apply suitable retention action.
+53,0.8,0.41,Tenure,-1.213,-0.408,Success,Review customer behaviour and apply suitable retention action.
+53,0.8,0.41,CashbackAmount,-0.402,-1.293,Success,Offer cashback or loyalty reward to encourage retention.
+59,0.85,0.345,Tenure,-1.213,5.615,Success,Review customer behaviour and apply suitable retention action.
+59,0.85,0.345,DaySinceLastOrder,0.997,3.98,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+79,0.76,0.19,Tenure,-1.213,3.741,Success,Review customer behaviour and apply suitable retention action.
+81,0.745,0.33,Tenure,-1.213,0.523,Success,Review customer behaviour and apply suitable retention action.
+85,0.915,0.47,Tenure,-0.135,2.121,Success,Review customer behaviour and apply suitable retention action.
+85,0.915,0.47,DaySinceLastOrder,-1.254,1.997,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+86,0.9,0.315,Tenure,-1.094,0.503,Success,Review customer behaviour and apply suitable retention action.
+86,0.9,0.315,OrderCount,-0.328,3.185,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
+88,0.925,0.27,Tenure,-1.094,2.512,Success,Review customer behaviour and apply suitable retention action.
+88,0.925,0.27,SatisfactionScore,-0.049,-0.954,Success,Improve satisfaction through service recovery or personalised support.
+92,0.795,0.285,Tenure,-1.213,4.513,Success,Review customer behaviour and apply suitable retention action.
+92,0.795,0.285,CouponUsed,1.23,0.907,Success,Provide a targeted coupon or promotional incentive.
+93,0.89,0.39,Tenure,-0.135,4.513,Success,Review customer behaviour and apply suitable retention action.
+93,0.89,0.39,DaySinceLastOrder,-1.254,8.125,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+113,0.825,0.485,Complain,1.603,-0.616,Success,Resolve the complaint and follow up with the customer.
+113,0.825,0.485,OrderCount,0.382,1.87,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
+128,0.94,0.475,Tenure,-0.135,5.899,Success,Review customer behaviour and apply suitable retention action.
+128,0.94,0.475,DaySinceLastOrder,-1.254,5.451,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+135,0.73,0.475,Tenure,-1.213,5.331,Success,Review customer behaviour and apply suitable retention action.
+158,0.775,0.405,Tenure,-0.974,1.969,Success,Review customer behaviour and apply suitable retention action.
+158,0.775,0.405,DaySinceLastOrder,-0.41,4.702,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+160,0.825,0.235,Tenure,-1.094,1.979,Success,Review customer behaviour and apply suitable retention action.
+160,0.825,0.235,CouponUsed,-0.387,6.199,Success,Provide a targeted coupon or promotional incentive.
+166,0.82,0.5,Tenure,-0.615,3.943,Success,Review customer behaviour and apply suitable retention action.
+166,0.82,0.5,OrderCount,-0.328,4.496,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
+169,0.88,0.485,Tenure,-0.734,4.294,Success,Review customer behaviour and apply suitable retention action.
+169,0.88,0.485,CashbackAmount,-0.626,-3.346,Success,Offer cashback or loyalty reward to encourage retention.
+178,0.97,0.355,Tenure,-1.094,1.697,Success,Review customer behaviour and apply suitable retention action.
+178,0.97,0.355,CouponUsed,-0.387,2.697,Success,Provide a targeted coupon or promotional incentive.
+179,0.7,0.485,SatisfactionScore,0.674,-0.863,Success,Improve satisfaction through service recovery or personalised support.
+179,0.7,0.485,OrderCount,-0.684,-0.53,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
+181,0.84,0.5,Tenure,-1.213,-0.399,Success,Review customer behaviour and apply suitable retention action.
+181,0.84,0.5,SatisfactionScore,-0.049,-0.971,Success,Improve satisfaction through service recovery or personalised support.
+185,0.905,0.475,Tenure,-1.213,0.61,Success,Review customer behaviour and apply suitable retention action.
+185,0.905,0.475,DaySinceLastOrder,-1.254,3.787,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+193,0.98,0.46,Tenure,-0.135,3.085,Success,Review customer behaviour and apply suitable retention action.
+193,0.98,0.46,DaySinceLastOrder,-1.254,1.147,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+208,0.7,0.12,Tenure,-1.094,5.776,Success,Review customer behaviour and apply suitable retention action.
+208,0.7,0.12,CashbackAmount,-0.545,2.465,Success,Offer cashback or loyalty reward to encourage retention.
+216,0.96,0.305,Tenure,-1.094,4.107,Success,Review customer behaviour and apply suitable retention action.
+234,0.855,0.405,Tenure,-0.135,1.953,Success,Review customer behaviour and apply suitable retention action.
+234,0.855,0.405,DaySinceLastOrder,-1.254,9.187,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+236,0.81,0.13,Tenure,-1.094,4.0,Success,Review customer behaviour and apply suitable retention action.
+236,0.81,0.13,DaySinceLastOrder,-0.972,9.843,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+256,0.78,0.295,Tenure,-1.213,5.206,Success,Review customer behaviour and apply suitable retention action.
+287,0.715,0.325,Tenure,-1.094,3.648,Success,Review customer behaviour and apply suitable retention action.
+287,0.715,0.325,CouponUsed,-0.387,2.186,Success,Provide a targeted coupon or promotional incentive.
+311,0.825,0.49,Tenure,-1.094,3.915,Success,Review customer behaviour and apply suitable retention action.
+311,0.825,0.49,Complain,-0.624,1.073,Success,Resolve the complaint and follow up with the customer.
+334,0.725,0.2,Tenure,-1.213,2.475,Success,Review customer behaviour and apply suitable retention action.
+334,0.725,0.2,CashbackAmount,-0.871,0.892,Success,Offer cashback or loyalty reward to encourage retention.
+371,0.72,0.435,Tenure,-0.135,2.351,Success,Review customer behaviour and apply suitable retention action.
+371,0.72,0.435,CashbackAmount,-1.109,-0.607,Success,Offer cashback or loyalty reward to encourage retention.
+391,0.81,0.465,Tenure,-1.213,-0.268,Success,Review customer behaviour and apply suitable retention action.
+391,0.81,0.465,CashbackAmount,-0.875,-0.964,Success,Offer cashback or loyalty reward to encourage retention.
+404,0.98,0.435,Tenure,-1.094,1.903,Success,Review customer behaviour and apply suitable retention action.
+418,0.88,0.275,Tenure,-1.213,2.124,Success,Review customer behaviour and apply suitable retention action.
+418,0.88,0.275,CouponUsed,-0.387,0.219,Success,Provide a targeted coupon or promotional incentive.
+419,0.725,0.095,Tenure,-1.094,3.597,Success,Review customer behaviour and apply suitable retention action.
+427,0.905,0.41,Tenure,-1.213,0.918,Success,Review customer behaviour and apply suitable retention action.
+427,0.905,0.41,CashbackAmount,-0.93,-0.389,Success,Offer cashback or loyalty reward to encourage retention.
+443,0.95,0.35,Tenure,-1.094,4.825,Success,Review customer behaviour and apply suitable retention action.
+443,0.95,0.35,CashbackAmount,-0.134,-1.64,Success,Offer cashback or loyalty reward to encourage retention.
+445,0.855,0.445,Tenure,-0.375,1.933,Success,Review customer behaviour and apply suitable retention action.
+481,0.91,0.375,Tenure,-1.213,5.54,Success,Review customer behaviour and apply suitable retention action.
+481,0.91,0.375,CouponUsed,1.23,-0.562,Success,Provide a targeted coupon or promotional incentive.
+487,0.975,0.5,Tenure,-1.213,4.71,Success,Review customer behaviour and apply suitable retention action.
+487,0.975,0.5,OrderCount,-0.684,-0.366,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
+497,0.875,0.25,Tenure,-1.094,3.497,Success,Review customer behaviour and apply suitable retention action.
+519,0.96,0.455,Tenure,-1.094,6.052,Success,Review customer behaviour and apply suitable retention action.
+547,0.935,0.41,Tenure,-0.135,0.358,Success,Review customer behaviour and apply suitable retention action.
+547,0.935,0.41,CashbackAmount,-1.288,1.035,Success,Offer cashback or loyalty reward to encourage retention.
+560,0.865,0.3,Tenure,-1.094,3.582,Success,Review customer behaviour and apply suitable retention action.
+560,0.865,0.3,SatisfactionScore,-0.771,-1.174,Success,Improve satisfaction through service recovery or personalised support.
+574,0.845,0.385,Tenure,-0.375,1.939,Success,Review customer behaviour and apply suitable retention action.
+586,0.79,0.265,Tenure,-1.094,5.517,Success,Review customer behaviour and apply suitable retention action.
+594,0.81,0.445,Tenure,-0.734,3.078,Success,Review customer behaviour and apply suitable retention action.
+594,0.81,0.445,DaySinceLastOrder,-0.41,2.984,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+608,0.735,0.355,Tenure,-1.213,2.605,Success,Review customer behaviour and apply suitable retention action.
+608,0.735,0.355,CouponUsed,-0.927,1.938,Success,Provide a targeted coupon or promotional incentive.
+619,0.88,0.265,Tenure,-1.094,0.974,Success,Review customer behaviour and apply suitable retention action.
+632,0.74,0.48,Tenure,-1.094,-0.647,Success,Review customer behaviour and apply suitable retention action.
+632,0.74,0.48,Complain,1.603,1.005,Success,Resolve the complaint and follow up with the customer.
+645,0.895,0.48,Tenure,-1.213,1.255,Success,Review customer behaviour and apply suitable retention action.
+651,0.83,0.36,Tenure,-1.094,1.841,Success,Review customer behaviour and apply suitable retention action.
+651,0.83,0.36,Complain,1.603,0.815,Success,Resolve the complaint and follow up with the customer.
+656,0.725,0.43,DaySinceLastOrder,-0.972,7.686,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+660,0.845,0.495,Tenure,-1.094,4.314,Success,Review customer behaviour and apply suitable retention action.
+660,0.845,0.495,SatisfactionScore,-1.494,0.747,Success,Improve satisfaction through service recovery or personalised support.
+666,0.795,0.195,Tenure,-1.213,3.729,Success,Review customer behaviour and apply suitable retention action.
+666,0.795,0.195,SatisfactionScore,1.396,0.032,Success,Improve satisfaction through service recovery or personalised support.
+686,0.875,0.48,Tenure,-1.213,4.317,Success,Review customer behaviour and apply suitable retention action.
+688,0.785,0.21,Tenure,-1.094,4.608,Success,Review customer behaviour and apply suitable retention action.
+688,0.785,0.21,DaySinceLastOrder,-0.972,4.36,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+690,0.835,0.27,Tenure,-1.213,2.246,Success,Review customer behaviour and apply suitable retention action.
+690,0.835,0.27,DaySinceLastOrder,-1.254,6.406,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+700,0.835,0.25,Tenure,-1.094,1.316,Success,Review customer behaviour and apply suitable retention action.
+700,0.835,0.25,CouponUsed,0.691,7.43,Success,Provide a targeted coupon or promotional incentive.
+712,0.83,0.27,Tenure,-1.213,5.94,Success,Review customer behaviour and apply suitable retention action.
+712,0.83,0.27,DaySinceLastOrder,-0.691,-0.922,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+715,0.82,0.195,Tenure,-1.213,0.345,Success,Review customer behaviour and apply suitable retention action.
+715,0.82,0.195,CouponUsed,-0.387,5.394,Success,Provide a targeted coupon or promotional incentive.
+735,0.805,0.18,Tenure,-1.094,0.691,Success,Review customer behaviour and apply suitable retention action.
+735,0.805,0.18,OrderCount,-0.328,4.512,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
+751,0.875,0.41,Tenure,-0.016,1.891,Success,Review customer behaviour and apply suitable retention action.
+751,0.875,0.41,CashbackAmount,1.059,-0.745,Success,Offer cashback or loyalty reward to encourage retention.
+766,0.8,0.455,Tenure,-1.094,1.358,Success,Review customer behaviour and apply suitable retention action.
+766,0.8,0.455,Complain,-0.624,0.44,Success,Resolve the complaint and follow up with the customer.
+775,0.725,0.375,Tenure,-1.094,0.789,Success,Review customer behaviour and apply suitable retention action.
+775,0.725,0.375,CashbackAmount,-0.594,-1.355,Success,Offer cashback or loyalty reward to encourage retention.
+788,0.855,0.235,Tenure,-1.094,1.632,Success,Review customer behaviour and apply suitable retention action.
+788,0.855,0.235,CouponUsed,-0.387,2.33,Success,Provide a targeted coupon or promotional incentive.
+800,0.755,0.31,Tenure,-1.213,4.587,Success,Review customer behaviour and apply suitable retention action.
+800,0.755,0.31,CashbackAmount,0.527,-3.273,Success,Offer cashback or loyalty reward to encourage retention.
+805,0.77,0.38,OrderCount,-0.684,3.292,Success,Increase repeat purchases through loyalty rewards or reminder campaigns.
+805,0.77,0.38,CashbackAmount,-1.154,2.853,Success,Offer cashback or loyalty reward to encourage retention.
+827,0.9,0.37,Tenure,-1.094,3.765,Success,Review customer behaviour and apply suitable retention action.
+827,0.9,0.37,CouponUsed,0.152,4.084,Success,Provide a targeted coupon or promotional incentive.
+829,0.78,0.25,Tenure,-1.213,2.906,Success,Review customer behaviour and apply suitable retention action.
+835,0.915,0.37,Tenure,-1.213,1.901,Success,Review customer behaviour and apply suitable retention action.
+844,0.7,0.185,Tenure,-1.213,0.403,Success,Review customer behaviour and apply suitable retention action.
+847,0.82,0.26,Tenure,-1.094,1.387,Success,Review customer behaviour and apply suitable retention action.
+847,0.82,0.26,CouponUsed,-0.387,5.466,Success,Provide a targeted coupon or promotional incentive.
+859,0.785,0.435,Tenure,-0.974,0.684,Success,Review customer behaviour and apply suitable retention action.
+861,0.775,0.4,Tenure,-0.734,3.307,Success,Review customer behaviour and apply suitable retention action.
+864,0.76,0.24,Tenure,-1.213,0.196,Success,Review customer behaviour and apply suitable retention action.
+864,0.76,0.24,DaySinceLastOrder,0.997,2.86,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+903,0.82,0.325,Tenure,-1.094,4.558,Success,Review customer behaviour and apply suitable retention action.
+903,0.82,0.325,SatisfactionScore,-0.771,0.125,Success,Improve satisfaction through service recovery or personalised support.
+917,0.895,0.36,Tenure,-1.094,0.075,Success,Review customer behaviour and apply suitable retention action.
+917,0.895,0.36,DaySinceLastOrder,0.997,0.939,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+928,0.83,0.36,Tenure,-1.094,1.248,Success,Review customer behaviour and apply suitable retention action.
+928,0.83,0.36,DaySinceLastOrder,0.153,0.642,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+933,0.945,0.295,Tenure,-1.213,2.041,Success,Review customer behaviour and apply suitable retention action.
+933,0.945,0.295,CouponUsed,-0.927,4.636,Success,Provide a targeted coupon or promotional incentive.
+935,0.99,0.39,Tenure,-1.094,1.234,Success,Review customer behaviour and apply suitable retention action.
+935,0.99,0.39,DaySinceLastOrder,-0.972,10.33,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+962,0.84,0.315,Tenure,-1.213,2.171,Success,Review customer behaviour and apply suitable retention action.
+966,0.825,0.355,Tenure,-1.094,2.668,Success,Review customer behaviour and apply suitable retention action.
+966,0.825,0.355,Complain,-0.624,0.164,Success,Resolve the complaint and follow up with the customer.
+998,0.885,0.5,SatisfactionScore,0.674,-1.493,Success,Improve satisfaction through service recovery or personalised support.
+998,0.885,0.5,CouponUsed,-0.387,2.271,Success,Provide a targeted coupon or promotional incentive.
+1002,0.82,0.38,Tenure,-1.094,4.864,Success,Review customer behaviour and apply suitable retention action.
+1002,0.82,0.38,Complain,1.603,1.474,Success,Resolve the complaint and follow up with the customer.
+1014,0.86,0.39,Tenure,-1.213,2.608,Success,Review customer behaviour and apply suitable retention action.
+1014,0.86,0.39,Complain,1.603,1.108,Success,Resolve the complaint and follow up with the customer.
+1018,0.87,0.31,Tenure,-1.094,5.226,Success,Review customer behaviour and apply suitable retention action.
+1018,0.87,0.31,CouponUsed,1.23,7.192,Success,Provide a targeted coupon or promotional incentive.
+1028,0.725,0.255,Tenure,-1.094,1.458,Success,Review customer behaviour and apply suitable retention action.
+1028,0.725,0.255,DaySinceLastOrder,-0.41,11.52,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+1046,0.74,0.175,Tenure,-1.094,0.175,Success,Review customer behaviour and apply suitable retention action.
+1046,0.74,0.175,DaySinceLastOrder,0.153,3.151,Success,Encourage the customer to place a new order sooner through a re-engagement campaign.
+1048,0.87,0.44,Tenure,-1.094,5.405,Success,Review customer behaviour and apply suitable retention action.
+1069,0.84,0.49,Tenure,-1.213,-0.5,Success,Review customer behaviour and apply suitable retention action.
+1079,0.78,0.27,Tenure,-1.094,2.772,Success,Review customer behaviour and apply suitable retention action.
+1111,0.82,0.32,Tenure,-1.094,0.186,Success,Review customer behaviour and apply suitable retention action.
+1113,0.82,0.31,Tenure,-1.213,2.134,Success,Review customer behaviour and apply suitable retention action.
+1116,0.955,0.4,Tenure,-1.213,2.257,Success,Review customer behaviour and apply suitable retention action.
