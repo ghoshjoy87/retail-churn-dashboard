@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.streamlit/secrets.toml
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Python packaging
+build/
+dist/
+*.egg-info/
