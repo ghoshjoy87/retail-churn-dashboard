@@ -381,3 +381,17 @@ Disclaimer
 This software was developed for academic research and prototype demonstration.
 Predictions, explanations, counterfactual scenarios, and retention recommendations should not be treated as deterministic, causal, or automatically executable business decisions.
 Operational deployment would require further organisational validation, governance, security controls, monitoring, and human oversight.
+
+
+License
+The source code in this repository is provided under the MIT License.
+The following materials are not automatically covered by the MIT License:
+
+- the Master's capstone dissertation;
+- third-party datasets;
+- referenced academic literature;
+- third-party libraries;
+- externally sourced documentation;
+- screenshots or materials containing third-party content.
+
+These materials remain subject to their respective copyright and licensing conditions.
