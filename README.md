@@ -395,3 +395,9 @@ The following materials are not automatically covered by the MIT License:
 - screenshots or materials containing third-party content.
 
 These materials remain subject to their respective copyright and licensing conditions.
+
+
+Citation
+If you reference this project in academic or professional work, please cite the capstone report:
+
+Ghosh, S. K. (2026). *Business Intelligence and Explainable Artificial Intelligence Decision Support System for Customer Retention in Retail SMEs*. Master of Business Informatics Capstone Project, Yoobee College of Creative Innovation, Auckland, New Zealand.
