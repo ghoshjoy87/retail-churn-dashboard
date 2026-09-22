@@ -181,12 +181,12 @@ Decision Support Dashboard
 The Streamlit application integrates the analytical components into a business-oriented interface.
 The main dashboard functions include:
 
-Executive Overview
+Executive Overview![Executive Overview](figures/dashboard/executive_overview.png)
 Customer Behaviour Segmentation
-Retention Priority Centre
-Customer Profile
-Churn Drivers and Explainability
-Counterfactual Actions
+Retention Priority Centre![Retention Priority Centre](figures/dashboard/retention_priority_centre.png)
+Customer Profile![Customer Profile](figures/dashboard/customer_profile.png)
+Churn Drivers and Explainability![SHAP Explainability](figures/dashboard/shap_explainability.png)
+Counterfactual Actions![Counterfactual Actions](figures/dashboard/counterfactual_actions.png)
 Churn Analysis
 Processed Data Upload
 
