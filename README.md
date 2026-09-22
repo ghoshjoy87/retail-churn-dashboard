@@ -241,12 +241,12 @@ retail-churn-dashboard/
 ├── requirements.txt
 ├── README.md
 │
-├── ipynb/
-│   ├── BD_01_Data_Exploration.ipynb
-│   ├── V2_ BD_02_Data_Preprocessing & Segmentation.ipynb
-│   ├── V2_BD_03_Model_Training_and_Evaluation.ipynb
-│   ├── V2_BD_04_SHAP_Explainability.ipynb
-│   └── V2_BD_05_Counterfactual_Recommendations.ipynb
+├── notebooks/
+│   ├── 01_Data_Exploration.ipynb
+│   ├── 02_Data_Preprocessing_and_Segmentation.ipynb
+│   ├── 03_Model_Training_and_Evaluation.ipynb
+│   ├── 04_SHAP_Explainability.ipynb
+│   └── 05_Counterfactual_Recommendations.ipynb
 │
 ├── Prototype Screenshots/
 │
