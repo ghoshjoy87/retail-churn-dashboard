@@ -223,6 +223,17 @@ Deployment
 Streamlit Community Cloud
 
 
+System Architecture
+The system follows a modular architecture integrating data preparation, customer behaviour analysis, predictive modelling, explainability, recommendation generation, and dashboard presentation.
+
+![System Architecture](architecture/system_architecture.png)
+
+The editable architecture source is available here:
+
+[Open the draw.io architecture file](architecture/Final_System_Architecture.drawio)
+
+
+
 Repository Structure
 retail-churn-dashboard/
 │
