@@ -345,9 +345,10 @@ More personalised recommendations
 Additional customer engagement data
 Longitudinal organisational evaluation
 Transaction-level monetary data for conventional RFM analysis
-Capstone Report
 
-The complete research methodology, literature review, system design, implementation, evaluation, ethical analysis, limitations, and discussion are documented in the final Master's capstone report.
+
+Capstone Report:
+The complete research methodology, literature review, system design, implementation, evaluation, ethical analysis, limitations, and discussion are documented in the final Master's capstone report. [Download the Final Capstone Report](report/Sanjoy_Final_Capstone_Report.pdf)
 
 Project title:
 Business Intelligence and Explainable Artificial Intelligence Decision Support System for Customer Retention in Retail SMEs
